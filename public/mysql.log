@@ -1,0 +1,2288 @@
+[2021-02-10 11:03:20] DESC tbl_products_cat
+[2021-02-10 11:03:20] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-10 11:03:22] DESC tbl_products
+[2021-02-10 11:03:22] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-10 11:03:33] DESC tbl_products
+[2021-02-10 11:03:33] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-10 11:03:33] DESC tbl_products
+[2021-02-10 11:03:33] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-11 21:19:50] DESC tbl_products_cat
+[2021-02-11 21:19:50] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-11 21:19:50] DESC tbl_products
+[2021-02-11 21:19:50] SELECT * FROM tbl_products WHERE cat_id=6
+[2021-02-11 21:19:50] SELECT * FROM tbl_products WHERE cat_id=5
+[2021-02-11 21:19:50] SELECT * FROM tbl_products WHERE cat_id=4
+[2021-02-11 21:19:50] SELECT * FROM tbl_products WHERE cat_id=3
+[2021-02-11 21:19:50] SELECT * FROM tbl_products WHERE cat_id=2
+[2021-02-11 21:19:50] SELECT * FROM tbl_products WHERE cat_id=1
+[2021-02-11 21:19:55] DESC tbl_products
+[2021-02-11 21:19:55] SELECT * FROM tbl_products WHERE id=7 LIMIT 1
+[2021-02-11 21:19:55] DESC tbl_products_cat
+[2021-02-11 21:19:55] SELECT * FROM tbl_products_cat WHERE id=5 LIMIT 1
+[2021-02-11 21:19:55] SELECT * FROM tbl_products WHERE cat_id=5
+[2021-02-11 21:19:58] DESC tbl_products
+[2021-02-11 21:19:58] SELECT * FROM tbl_products WHERE id=7 LIMIT 1
+[2021-02-11 21:20:09] DESC tbl_products
+[2021-02-11 21:20:09] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-11 21:20:09] DESC tbl_products
+[2021-02-11 21:20:09] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-11 21:20:14] DESC tbl_orders
+[2021-02-11 21:20:14] SELECT * FROM tbl_orders ORDER BY id DESC LIMIT 30
+[2021-02-11 21:20:17] DESC tbl_orders
+[2021-02-11 21:20:17] SELECT * FROM tbl_orders WHERE id=5 LIMIT 1
+[2021-02-11 21:20:17] DESC tbl_orders_detail
+[2021-02-11 21:20:17] SELECT * FROM tbl_orders_detail WHERE order_id=5
+[2021-02-11 21:20:17] DESC tbl_orders
+[2021-02-11 21:20:17] SELECT * FROM tbl_orders WHERE id=js LIMIT 1
+[2021-02-11 21:20:23] DESC tbl_orders
+[2021-02-11 21:20:23] SELECT * FROM tbl_orders ORDER BY id DESC LIMIT 30
+[2021-02-11 21:21:41] DESC tbl_orders
+[2021-02-11 21:21:41] SELECT * FROM tbl_orders WHERE id=5 LIMIT 1
+[2021-02-11 21:21:41] DESC tbl_orders_detail
+[2021-02-11 21:21:41] SELECT * FROM tbl_orders_detail WHERE order_id=5
+[2021-02-11 21:21:41] DESC tbl_orders
+[2021-02-11 21:21:41] SELECT * FROM tbl_orders WHERE id=js LIMIT 1
+[2021-02-11 21:28:42] DESC tbl_products_cat
+[2021-02-11 21:28:42] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-11 21:28:42] DESC tbl_products
+[2021-02-11 21:28:42] SELECT * FROM tbl_products WHERE cat_id=6
+[2021-02-11 21:28:42] SELECT * FROM tbl_products WHERE cat_id=5
+[2021-02-11 21:28:42] SELECT * FROM tbl_products WHERE cat_id=4
+[2021-02-11 21:28:42] SELECT * FROM tbl_products WHERE cat_id=3
+[2021-02-11 21:28:42] SELECT * FROM tbl_products WHERE cat_id=2
+[2021-02-11 21:28:42] SELECT * FROM tbl_products WHERE cat_id=1
+[2021-02-11 21:28:44] DESC tbl_products
+[2021-02-11 21:28:44] SELECT * FROM tbl_products WHERE id=5 LIMIT 1
+[2021-02-11 21:28:44] DESC tbl_products_cat
+[2021-02-11 21:28:44] SELECT * FROM tbl_products_cat WHERE id=5 LIMIT 1
+[2021-02-11 21:28:44] SELECT * FROM tbl_products WHERE cat_id=5
+[2021-02-11 21:29:13] DESC tbl_products
+[2021-02-11 21:29:13] SELECT * FROM tbl_products WHERE id=5 LIMIT 1
+[2021-02-11 21:29:13] DESC tbl_products_cat
+[2021-02-11 21:29:13] SELECT * FROM tbl_products_cat WHERE id=5 LIMIT 1
+[2021-02-11 21:29:13] SELECT * FROM tbl_products WHERE cat_id=5
+[2021-02-11 21:29:16] DESC tbl_products
+[2021-02-11 21:29:16] SELECT * FROM tbl_products WHERE id=7 LIMIT 1
+[2021-02-11 21:29:16] DESC tbl_products_cat
+[2021-02-11 21:29:16] SELECT * FROM tbl_products_cat WHERE id=5 LIMIT 1
+[2021-02-11 21:29:16] SELECT * FROM tbl_products WHERE cat_id=5
+[2021-02-11 21:29:18] DESC tbl_products_cat
+[2021-02-11 21:29:18] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-11 21:29:19] DESC tbl_products
+[2021-02-11 21:29:19] SELECT * FROM tbl_products WHERE id=7 LIMIT 1
+[2021-02-11 21:29:19] DESC tbl_products_cat
+[2021-02-11 21:29:19] SELECT * FROM tbl_products_cat WHERE id=5 LIMIT 1
+[2021-02-11 21:29:19] SELECT * FROM tbl_products WHERE cat_id=5
+[2021-02-11 21:29:21] DESC tbl_products
+[2021-02-11 21:29:21] SELECT * FROM tbl_products WHERE id=5 LIMIT 1
+[2021-02-11 21:29:21] DESC tbl_products_cat
+[2021-02-11 21:29:21] SELECT * FROM tbl_products_cat WHERE id=5 LIMIT 1
+[2021-02-11 21:29:21] SELECT * FROM tbl_products WHERE cat_id=5
+[2021-02-11 21:29:23] DESC tbl_products
+[2021-02-11 21:29:23] SELECT * FROM tbl_products WHERE id=5 LIMIT 1
+[2021-02-11 21:30:55] DESC tbl_products_cat
+[2021-02-11 21:30:55] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-11 21:30:55] DESC tbl_products
+[2021-02-11 21:30:55] SELECT * FROM tbl_products WHERE cat_id=6
+[2021-02-11 21:30:55] SELECT * FROM tbl_products WHERE cat_id=5
+[2021-02-11 21:30:55] SELECT * FROM tbl_products WHERE cat_id=4
+[2021-02-11 21:30:55] SELECT * FROM tbl_products WHERE cat_id=3
+[2021-02-11 21:30:55] SELECT * FROM tbl_products WHERE cat_id=2
+[2021-02-11 21:30:55] SELECT * FROM tbl_products WHERE cat_id=1
+[2021-02-11 21:30:57] DESC tbl_products
+[2021-02-11 21:30:57] SELECT * FROM tbl_products WHERE id=7 LIMIT 1
+[2021-02-11 21:30:57] DESC tbl_products_cat
+[2021-02-11 21:30:57] SELECT * FROM tbl_products_cat WHERE id=5 LIMIT 1
+[2021-02-11 21:30:57] SELECT * FROM tbl_products WHERE cat_id=5
+[2021-02-11 21:30:59] DESC tbl_products
+[2021-02-11 21:30:59] SELECT * FROM tbl_products WHERE id=7 LIMIT 1
+[2021-02-11 21:31:07] DESC tbl_products_cat
+[2021-02-11 21:31:07] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-11 21:31:08] DESC tbl_products
+[2021-02-11 21:31:08] SELECT * FROM tbl_products WHERE cat_id=6
+[2021-02-11 21:31:08] SELECT * FROM tbl_products WHERE cat_id=5
+[2021-02-11 21:31:08] SELECT * FROM tbl_products WHERE cat_id=4
+[2021-02-11 21:31:08] SELECT * FROM tbl_products WHERE cat_id=3
+[2021-02-11 21:31:08] SELECT * FROM tbl_products WHERE cat_id=2
+[2021-02-11 21:31:08] SELECT * FROM tbl_products WHERE cat_id=1
+[2021-02-11 21:31:09] DESC tbl_products
+[2021-02-11 21:31:09] SELECT * FROM tbl_products WHERE id=7 LIMIT 1
+[2021-02-11 21:31:09] DESC tbl_products_cat
+[2021-02-11 21:31:09] SELECT * FROM tbl_products_cat WHERE id=5 LIMIT 1
+[2021-02-11 21:31:09] SELECT * FROM tbl_products WHERE cat_id=5
+[2021-02-11 21:31:11] DESC tbl_products
+[2021-02-11 21:31:11] SELECT * FROM tbl_products WHERE id=7 LIMIT 1
+[2021-02-11 21:31:22] DESC tbl_products_cat
+[2021-02-11 21:31:22] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-11 21:31:22] DESC tbl_products
+[2021-02-11 21:31:22] SELECT * FROM tbl_products WHERE cat_id=6
+[2021-02-11 21:31:22] SELECT * FROM tbl_products WHERE cat_id=5
+[2021-02-11 21:31:22] SELECT * FROM tbl_products WHERE cat_id=4
+[2021-02-11 21:31:22] SELECT * FROM tbl_products WHERE cat_id=3
+[2021-02-11 21:31:22] SELECT * FROM tbl_products WHERE cat_id=2
+[2021-02-11 21:31:22] SELECT * FROM tbl_products WHERE cat_id=1
+[2021-02-11 21:31:24] DESC tbl_products
+[2021-02-11 21:31:24] SELECT * FROM tbl_products WHERE id=7 LIMIT 1
+[2021-02-11 21:31:24] DESC tbl_products_cat
+[2021-02-11 21:31:24] SELECT * FROM tbl_products_cat WHERE id=5 LIMIT 1
+[2021-02-11 21:31:24] SELECT * FROM tbl_products WHERE cat_id=5
+[2021-02-11 21:31:54] DESC tbl_products
+[2021-02-11 21:31:54] SELECT * FROM tbl_products WHERE id=7 LIMIT 1
+[2021-02-11 21:33:32] DESC tbl_orders
+[2021-02-11 21:33:32] DESC tbl_orders_detail
+[2021-02-11 21:33:32] INSERT INTO tbl_orders(code,customer_name,customer_email,customer_phone,customer_address,message) VALUES('30','Nhat Zuy','qq@gmail.com','4234324324','Your heart','mlem')
+[2021-02-11 21:33:32] INSERT INTO tbl_orders_detail(product_id,product_name,product_unit,product_quantity,order_id) VALUES('7','MACBOOK Pro M1 2020','30990000','4','6')
+[2021-02-11 21:33:42] DESC tbl_products
+[2021-02-11 21:33:42] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-11 21:33:43] DESC tbl_products
+[2021-02-11 21:33:43] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-11 21:33:47] DESC tbl_orders
+[2021-02-11 21:33:47] SELECT * FROM tbl_orders ORDER BY id DESC LIMIT 30
+[2021-02-11 21:33:50] DESC tbl_orders
+[2021-02-11 21:33:50] SELECT * FROM tbl_orders WHERE id=6 LIMIT 1
+[2021-02-11 21:33:50] DESC tbl_orders_detail
+[2021-02-11 21:33:50] SELECT * FROM tbl_orders_detail WHERE order_id=6
+[2021-02-11 21:33:51] DESC tbl_orders
+[2021-02-11 21:33:51] SELECT * FROM tbl_orders WHERE id=js LIMIT 1
+[2021-02-11 21:35:40] DESC tbl_orders
+[2021-02-11 21:35:40] SELECT * FROM tbl_orders ORDER BY id DESC LIMIT 30
+[2021-02-11 21:36:15] DESC tbl_orders
+[2021-02-11 21:36:15] SELECT * FROM tbl_orders ORDER BY id DESC LIMIT 30
+[2021-02-11 21:38:10] DESC tbl_orders
+[2021-02-11 21:38:10] SELECT * FROM tbl_orders ORDER BY id DESC LIMIT 30
+[2021-02-11 21:43:47] DESC tbl_orders
+[2021-02-11 21:43:47] SELECT * FROM tbl_orders ORDER BY id DESC LIMIT 30
+[2021-02-12 09:02:58] DESC tbl_products_cat
+[2021-02-12 09:02:58] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-12 09:02:58] DESC tbl_products
+[2021-02-12 09:02:58] SELECT * FROM tbl_products WHERE cat_id=6
+[2021-02-12 09:02:58] SELECT * FROM tbl_products WHERE cat_id=5
+[2021-02-12 09:02:58] SELECT * FROM tbl_products WHERE cat_id=4
+[2021-02-12 09:02:58] SELECT * FROM tbl_products WHERE cat_id=3
+[2021-02-12 09:02:58] SELECT * FROM tbl_products WHERE cat_id=2
+[2021-02-12 09:02:58] SELECT * FROM tbl_products WHERE cat_id=1
+[2021-02-12 09:03:07] DESC tbl_products_cat
+[2021-02-12 09:03:07] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-12 09:03:07] DESC tbl_products
+[2021-02-12 09:03:07] SELECT * FROM tbl_products WHERE cat_id=6
+[2021-02-12 09:03:07] SELECT * FROM tbl_products WHERE cat_id=5
+[2021-02-12 09:03:07] SELECT * FROM tbl_products WHERE cat_id=4
+[2021-02-12 09:03:07] SELECT * FROM tbl_products WHERE cat_id=3
+[2021-02-12 09:03:07] SELECT * FROM tbl_products WHERE cat_id=2
+[2021-02-12 09:03:07] SELECT * FROM tbl_products WHERE cat_id=1
+[2021-02-12 09:03:09] DESC tbl_products
+[2021-02-12 09:03:09] SELECT * FROM tbl_products WHERE id=5 LIMIT 1
+[2021-02-12 09:03:09] DESC tbl_products_cat
+[2021-02-12 09:03:09] SELECT * FROM tbl_products_cat WHERE id=5 LIMIT 1
+[2021-02-12 09:03:09] SELECT * FROM tbl_products WHERE cat_id=5
+[2021-02-12 09:03:10] DESC tbl_products
+[2021-02-12 09:03:10] SELECT * FROM tbl_products WHERE id=5 LIMIT 1
+[2021-02-12 09:03:17] DESC tbl_products_cat
+[2021-02-12 09:03:17] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-12 09:03:17] DESC tbl_products
+[2021-02-12 09:03:17] SELECT * FROM tbl_products WHERE cat_id=6
+[2021-02-12 09:03:17] SELECT * FROM tbl_products WHERE cat_id=5
+[2021-02-12 09:03:17] SELECT * FROM tbl_products WHERE cat_id=4
+[2021-02-12 09:03:17] SELECT * FROM tbl_products WHERE cat_id=3
+[2021-02-12 09:03:17] SELECT * FROM tbl_products WHERE cat_id=2
+[2021-02-12 09:03:17] SELECT * FROM tbl_products WHERE cat_id=1
+[2021-02-12 09:03:21] DESC tbl_products
+[2021-02-12 09:03:21] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-12 09:03:22] DESC tbl_products
+[2021-02-12 09:03:22] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-12 09:03:27] DESC tbl_products
+[2021-02-12 09:03:27] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-16 16:11:06] DESC tbl_products
+[2021-02-16 16:11:07] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-16 16:36:45] DESC tbl_products_cat
+[2021-02-16 16:36:45] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-16 16:36:49] DESC tbl_products
+[2021-02-16 16:36:49] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-16 19:24:32] DESC tbl_products_cat
+[2021-02-16 19:24:32] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-16 19:24:33] DESC tbl_products
+[2021-02-16 19:24:33] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-16 19:56:11] DESC tbl_orders
+[2021-02-16 19:56:11] SELECT * FROM tbl_orders ORDER BY id DESC LIMIT 30
+[2021-02-16 19:56:13] DESC tbl_orders
+[2021-02-16 19:56:13] SELECT * FROM tbl_orders WHERE id=6 LIMIT 1
+[2021-02-16 19:56:13] DESC tbl_orders_detail
+[2021-02-16 19:56:13] SELECT * FROM tbl_orders_detail WHERE order_id=6
+[2021-02-16 19:56:13] DESC tbl_orders
+[2021-02-16 19:56:13] SELECT * FROM tbl_orders WHERE id=js LIMIT 1
+[2021-02-16 19:59:01] DESC tbl_orders
+[2021-02-16 19:59:01] SELECT * FROM tbl_orders ORDER BY id DESC LIMIT 30
+[2021-02-16 20:10:30] DESC tbl_products
+[2021-02-16 20:10:30] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-16 20:10:35] DESC tbl_products
+[2021-02-16 20:10:35] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-16 20:48:24] DESC tbl_products
+[2021-02-16 20:48:24] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-16 20:48:26] DESC tbl_products
+[2021-02-16 20:48:26] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 20:48:26] DESC tbl_products
+[2021-02-16 20:48:26] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-16 20:48:33] DESC tbl_products
+[2021-02-16 20:48:33] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-16 21:02:10] DESC tbl_products
+[2021-02-16 21:02:10] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:02:11] DESC tbl_products
+[2021-02-16 21:02:11] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-16 21:02:26] DESC tbl_products
+[2021-02-16 21:02:26] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:02:27] DESC tbl_products
+[2021-02-16 21:02:27] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-16 21:02:34] DESC tbl_products
+[2021-02-16 21:02:34] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:02:35] DESC tbl_products
+[2021-02-16 21:02:35] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-16 21:03:13] DESC tbl_products
+[2021-02-16 21:03:13] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:03:14] DESC tbl_products
+[2021-02-16 21:03:14] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-16 21:03:48] DESC tbl_products
+[2021-02-16 21:03:48] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:03:49] DESC tbl_products
+[2021-02-16 21:03:49] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-16 21:04:06] DESC tbl_products
+[2021-02-16 21:04:06] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:04:07] DESC tbl_products
+[2021-02-16 21:04:07] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-16 21:04:14] DESC tbl_products
+[2021-02-16 21:04:14] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:04:15] DESC tbl_products
+[2021-02-16 21:04:15] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-16 21:06:56] DESC tbl_products
+[2021-02-16 21:06:56] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:06:57] DESC tbl_products
+[2021-02-16 21:06:57] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-16 21:07:50] DESC tbl_products
+[2021-02-16 21:07:50] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:07:51] DESC tbl_products
+[2021-02-16 21:07:51] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-16 21:08:07] DESC tbl_products
+[2021-02-16 21:08:07] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:08:08] DESC tbl_products
+[2021-02-16 21:08:08] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-16 21:08:31] DESC tbl_products
+[2021-02-16 21:08:31] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:08:32] DESC tbl_products
+[2021-02-16 21:08:32] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-16 21:08:40] DESC tbl_products
+[2021-02-16 21:08:40] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:08:41] DESC tbl_products
+[2021-02-16 21:08:41] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-16 21:08:47] DESC tbl_products
+[2021-02-16 21:08:47] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:08:48] DESC tbl_products
+[2021-02-16 21:08:48] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-16 21:09:00] DESC tbl_products
+[2021-02-16 21:09:00] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:09:00] DESC tbl_products
+[2021-02-16 21:09:00] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-16 21:10:13] DESC tbl_products
+[2021-02-16 21:10:13] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:10:14] DESC tbl_products
+[2021-02-16 21:10:14] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-16 21:10:23] DESC tbl_products
+[2021-02-16 21:10:23] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:10:26] DESC tbl_products
+[2021-02-16 21:10:26] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:10:26] DESC tbl_products
+[2021-02-16 21:10:26] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-16 21:10:48] DESC tbl_products
+[2021-02-16 21:10:48] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:10:49] DESC tbl_products
+[2021-02-16 21:10:49] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-16 21:12:03] DESC tbl_products
+[2021-02-16 21:12:03] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:12:04] DESC tbl_products
+[2021-02-16 21:12:04] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-16 21:12:07] DESC tbl_products
+[2021-02-16 21:12:07] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:12:09] DESC tbl_products
+[2021-02-16 21:12:09] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:12:12] DESC tbl_products
+[2021-02-16 21:12:12] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:12:14] DESC tbl_products
+[2021-02-16 21:12:14] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:12:18] DESC tbl_products
+[2021-02-16 21:12:18] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:12:19] DESC tbl_products
+[2021-02-16 21:12:19] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:14:48] DESC tbl_products
+[2021-02-16 21:14:48] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:14:49] DESC tbl_products
+[2021-02-16 21:14:49] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-16 21:15:07] DESC tbl_products
+[2021-02-16 21:15:07] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:15:08] DESC tbl_products
+[2021-02-16 21:15:08] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-16 21:16:15] DESC tbl_products
+[2021-02-16 21:16:15] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:16:17] DESC tbl_products
+[2021-02-16 21:16:17] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-16 21:21:31] DESC tbl_products
+[2021-02-16 21:21:31] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:21:32] DESC tbl_products
+[2021-02-16 21:21:32] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-16 21:22:16] DESC tbl_products
+[2021-02-16 21:22:16] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:22:17] DESC tbl_products
+[2021-02-16 21:22:17] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-16 21:22:33] DESC tbl_products
+[2021-02-16 21:22:33] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:22:48] DESC tbl_products
+[2021-02-16 21:22:48] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:22:59] DESC tbl_products
+[2021-02-16 21:22:59] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:23:01] DESC tbl_products
+[2021-02-16 21:23:01] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-16 21:23:20] DESC tbl_products
+[2021-02-16 21:23:20] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:23:21] DESC tbl_products
+[2021-02-16 21:23:21] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-16 21:23:25] DESC tbl_products
+[2021-02-16 21:23:25] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:23:29] DESC tbl_products
+[2021-02-16 21:23:29] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:23:39] DESC tbl_products
+[2021-02-16 21:23:39] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:26:01] DESC tbl_products
+[2021-02-16 21:26:01] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:26:05] DESC tbl_products
+[2021-02-16 21:26:05] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-16 21:26:25] DESC tbl_products
+[2021-02-16 21:26:25] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:26:26] DESC tbl_products
+[2021-02-16 21:26:26] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-16 21:26:48] DESC tbl_products
+[2021-02-16 21:26:48] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:26:49] DESC tbl_products
+[2021-02-16 21:26:49] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-16 21:26:56] DESC tbl_products
+[2021-02-16 21:26:56] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:26:59] DESC tbl_products
+[2021-02-16 21:26:59] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:27:18] DESC tbl_products
+[2021-02-16 21:27:18] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:27:20] DESC tbl_products
+[2021-02-16 21:27:20] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:27:32] DESC tbl_products
+[2021-02-16 21:27:32] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:27:33] DESC tbl_products
+[2021-02-16 21:27:33] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-16 21:27:37] DESC tbl_products
+[2021-02-16 21:27:37] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:27:39] DESC tbl_products
+[2021-02-16 21:27:39] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:32:58] DESC tbl_products
+[2021-02-16 21:32:58] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:33:01] DESC tbl_products
+[2021-02-16 21:33:01] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:33:06] DESC tbl_products
+[2021-02-16 21:33:06] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:33:07] DESC tbl_products
+[2021-02-16 21:33:07] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:33:21] DESC tbl_products
+[2021-02-16 21:33:21] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:33:22] DESC tbl_products
+[2021-02-16 21:33:22] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-16 21:33:26] DESC tbl_products
+[2021-02-16 21:33:26] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:33:28] DESC tbl_products
+[2021-02-16 21:33:28] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:46:54] DESC tbl_products
+[2021-02-16 21:46:54] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:47:10] DESC tbl_products
+[2021-02-16 21:47:10] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:47:11] DESC tbl_products
+[2021-02-16 21:47:11] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:47:12] DESC tbl_products
+[2021-02-16 21:47:12] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-16 21:47:13] DESC tbl_products
+[2021-02-16 21:47:13] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:47:15] DESC tbl_products
+[2021-02-16 21:47:15] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:47:25] DESC tbl_products
+[2021-02-16 21:47:25] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:47:26] DESC tbl_products
+[2021-02-16 21:47:26] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-16 21:47:27] DESC tbl_products
+[2021-02-16 21:47:27] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-16 21:47:29] DESC tbl_products
+[2021-02-16 21:47:29] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-17 08:59:43] DESC tbl_products_cat
+[2021-02-17 08:59:44] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-17 08:59:45] DESC tbl_products
+[2021-02-17 08:59:45] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-17 08:59:46] DESC tbl_products
+[2021-02-17 08:59:46] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-17 08:59:46] DESC tbl_products
+[2021-02-17 08:59:46] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-17 08:59:54] DESC tbl_products
+[2021-02-17 08:59:54] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-17 08:59:56] DESC tbl_products
+[2021-02-17 08:59:56] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-17 09:01:50] DESC tbl_products_cat
+[2021-02-17 09:01:50] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-17 09:01:50] DESC tbl_products
+[2021-02-17 09:01:50] SELECT * FROM tbl_products WHERE cat_id=5
+[2021-02-17 09:01:50] SELECT * FROM tbl_products WHERE cat_id=4
+[2021-02-17 09:01:50] SELECT * FROM tbl_products WHERE cat_id=3
+[2021-02-17 09:01:50] SELECT * FROM tbl_products WHERE cat_id=2
+[2021-02-17 09:01:50] SELECT * FROM tbl_products WHERE cat_id=1
+[2021-02-17 09:07:27] DESC tbl_products_cat
+[2021-02-17 09:07:27] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-17 09:07:28] DESC tbl_products
+[2021-02-17 09:07:28] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-17 09:07:35] DESC tbl_orders
+[2021-02-17 09:07:35] SELECT * FROM tbl_orders ORDER BY id DESC LIMIT 30
+[2021-02-17 09:29:23] DESC tbl_orders
+[2021-02-17 09:29:23] SELECT * FROM tbl_orders ORDER BY id DESC LIMIT 30
+[2021-02-17 09:47:47] DESC tbl_products_cat
+[2021-02-17 09:47:47] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-17 09:47:47] DESC tbl_products
+[2021-02-17 09:47:47] SELECT * FROM tbl_products WHERE cat_id=5
+[2021-02-17 09:47:47] SELECT * FROM tbl_products WHERE cat_id=4
+[2021-02-17 09:47:47] SELECT * FROM tbl_products WHERE cat_id=3
+[2021-02-17 09:47:47] SELECT * FROM tbl_products WHERE cat_id=2
+[2021-02-17 09:47:47] SELECT * FROM tbl_products WHERE cat_id=1
+[2021-02-19 09:08:13] DESC tbl_products_cat
+[2021-02-19 09:08:13] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 09:08:13] DESC tbl_products
+[2021-02-19 09:08:13] SELECT * FROM tbl_products WHERE cat_id=5
+[2021-02-19 09:08:13] SELECT * FROM tbl_products WHERE cat_id=4
+[2021-02-19 09:08:13] SELECT * FROM tbl_products WHERE cat_id=3
+[2021-02-19 09:08:13] SELECT * FROM tbl_products WHERE cat_id=2
+[2021-02-19 09:08:13] SELECT * FROM tbl_products WHERE cat_id=1
+[2021-02-19 09:08:16] DESC tbl_products
+[2021-02-19 09:08:16] SELECT * FROM tbl_products WHERE id=5 LIMIT 1
+[2021-02-19 09:08:16] DESC tbl_products_cat
+[2021-02-19 09:08:16] SELECT * FROM tbl_products_cat WHERE id=5 LIMIT 1
+[2021-02-19 09:08:16] SELECT * FROM tbl_products WHERE cat_id=5
+[2021-02-19 09:08:18] DESC tbl_products
+[2021-02-19 09:08:18] SELECT * FROM tbl_products WHERE id=5 LIMIT 1
+[2021-02-19 09:24:05] DESC tbl_products
+[2021-02-19 09:24:05] SELECT * FROM tbl_products WHERE id= LIMIT 1
+[2021-02-19 09:24:11] DESC tbl_products
+[2021-02-19 09:24:11] SELECT * FROM tbl_products WHERE id=2 LIMIT 1
+[2021-02-19 09:24:11] DESC tbl_products_cat
+[2021-02-19 09:24:11] SELECT * FROM tbl_products_cat WHERE id=1 LIMIT 1
+[2021-02-19 09:24:11] SELECT * FROM tbl_products WHERE cat_id=1
+[2021-02-19 09:24:14] DESC tbl_products
+[2021-02-19 09:24:14] SELECT * FROM tbl_products WHERE id=2 LIMIT 1
+[2021-02-19 09:24:32] DESC tbl_products
+[2021-02-19 09:24:32] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-19 09:24:32] DESC tbl_products
+[2021-02-19 09:24:32] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-19 09:24:38] DESC tbl_products_cat
+[2021-02-19 09:24:38] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 09:24:44] DESC tbl_products
+[2021-02-19 09:24:44] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-19 09:24:46] DESC tbl_products
+[2021-02-19 09:24:46] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 09:24:46] DESC tbl_products
+[2021-02-19 09:24:46] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 09:24:50] DESC tbl_products
+[2021-02-19 09:24:50] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-19 09:24:52] DESC tbl_products
+[2021-02-19 09:24:52] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 09:24:52] DESC tbl_products
+[2021-02-19 09:24:52] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 09:25:59] DESC tbl_products
+[2021-02-19 09:25:59] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 09:26:03] DESC tbl_products
+[2021-02-19 09:26:03] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 09:26:08] DESC tbl_products
+[2021-02-19 09:26:08] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 09:26:10] DESC tbl_products
+[2021-02-19 09:26:10] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 09:26:10] DESC tbl_products
+[2021-02-19 09:26:10] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 09:26:28] DESC tbl_products
+[2021-02-19 09:26:28] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 09:26:30] DESC tbl_products
+[2021-02-19 09:26:30] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 09:26:39] DESC tbl_products
+[2021-02-19 09:26:39] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 09:26:41] DESC tbl_products
+[2021-02-19 09:26:41] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 09:30:06] DESC tbl_products
+[2021-02-19 09:30:06] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 09:30:06] DESC tbl_products
+[2021-02-19 09:30:06] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 09:30:11] DESC tbl_products
+[2021-02-19 09:30:11] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 09:30:13] DESC tbl_products
+[2021-02-19 09:30:13] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 09:36:19] DESC tbl_products
+[2021-02-19 09:36:19] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 09:36:20] DESC tbl_products
+[2021-02-19 09:36:20] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 09:36:25] DESC tbl_products
+[2021-02-19 09:36:25] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 09:36:28] DESC tbl_products
+[2021-02-19 09:36:28] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 09:36:28] DESC tbl_products
+[2021-02-19 09:36:28] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 09:42:25] DESC tbl_products
+[2021-02-19 09:42:25] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 09:42:27] DESC tbl_products
+[2021-02-19 09:42:27] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 14:56:31] DESC tbl_products
+[2021-02-19 14:56:31] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 14:56:31] DESC tbl_products
+[2021-02-19 14:56:31] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 14:56:37] DESC tbl_products
+[2021-02-19 14:56:37] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 14:56:40] DESC tbl_products
+[2021-02-19 14:56:40] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 14:59:00] DESC tbl_products
+[2021-02-19 14:59:00] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 14:59:01] DESC tbl_products
+[2021-02-19 14:59:01] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 14:59:07] DESC tbl_products
+[2021-02-19 14:59:07] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 14:59:11] DESC tbl_products
+[2021-02-19 14:59:11] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 14:59:14] DESC tbl_products
+[2021-02-19 14:59:14] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 15:07:19] DESC tbl_products
+[2021-02-19 15:07:19] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 15:07:20] DESC tbl_products
+[2021-02-19 15:07:20] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 15:07:22] DESC tbl_products
+[2021-02-19 15:07:22] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 15:07:26] DESC tbl_products
+[2021-02-19 15:07:26] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 15:07:46] DESC tbl_products
+[2021-02-19 15:07:46] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 15:07:47] DESC tbl_products
+[2021-02-19 15:07:47] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 15:07:52] DESC tbl_products
+[2021-02-19 15:07:52] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 15:07:56] DESC tbl_products
+[2021-02-19 15:07:57] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 15:08:22] DESC tbl_products
+[2021-02-19 15:08:22] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 15:08:23] DESC tbl_products
+[2021-02-19 15:08:23] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 15:09:12] DESC tbl_products
+[2021-02-19 15:09:12] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 15:09:13] DESC tbl_products
+[2021-02-19 15:09:13] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 15:09:45] DESC tbl_products
+[2021-02-19 15:09:45] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 15:09:46] DESC tbl_products
+[2021-02-19 15:09:46] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 15:09:51] DESC tbl_products
+[2021-02-19 15:09:51] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 15:09:53] DESC tbl_products
+[2021-02-19 15:09:53] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 15:32:33] DESC tbl_products
+[2021-02-19 15:32:33] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 15:32:34] DESC tbl_products
+[2021-02-19 15:32:34] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 15:32:39] DESC tbl_products
+[2021-02-19 15:32:39] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 15:32:45] DESC tbl_products
+[2021-02-19 15:32:45] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 15:32:46] DESC tbl_products
+[2021-02-19 15:32:46] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 15:33:36] DESC tbl_products
+[2021-02-19 15:33:36] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 15:33:38] DESC tbl_products
+[2021-02-19 15:33:38] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 15:34:31] DESC tbl_products
+[2021-02-19 15:34:31] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 15:34:32] DESC tbl_products
+[2021-02-19 15:34:32] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 15:35:00] DESC tbl_products
+[2021-02-19 15:35:00] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 15:35:01] DESC tbl_products
+[2021-02-19 15:35:01] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 15:35:05] DESC tbl_products
+[2021-02-19 15:35:05] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 15:35:06] DESC tbl_products
+[2021-02-19 15:35:06] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 15:35:12] DESC tbl_products
+[2021-02-19 15:35:12] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 15:35:13] DESC tbl_products
+[2021-02-19 15:35:13] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 15:38:26] DESC tbl_products
+[2021-02-19 15:38:26] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 15:38:27] DESC tbl_products
+[2021-02-19 15:38:27] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 15:40:10] DESC tbl_products
+[2021-02-19 15:40:10] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 15:40:11] DESC tbl_products
+[2021-02-19 15:40:11] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 16:03:53] DESC tbl_products
+[2021-02-19 16:03:53] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 16:03:54] DESC tbl_products
+[2021-02-19 16:03:54] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 16:03:56] DESC tbl_products
+[2021-02-19 16:04:03] DESC tbl_products
+[2021-02-19 16:04:03] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 16:04:54] DESC tbl_products
+[2021-02-19 16:05:05] DESC tbl_products
+[2021-02-19 16:05:05] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 16:05:06] DESC tbl_products
+[2021-02-19 16:05:06] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 16:05:09] DESC tbl_products
+[2021-02-19 16:08:28] DESC tbl_products
+[2021-02-19 16:08:28] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 16:08:31] DESC tbl_products
+[2021-02-19 16:08:31] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 16:08:36] DESC tbl_products
+[2021-02-19 16:09:38] DESC tbl_products
+[2021-02-19 16:09:38] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 16:09:42] DESC tbl_products
+[2021-02-19 16:09:45] DESC tbl_products
+[2021-02-19 16:09:45] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 16:19:48] DESC tbl_products
+[2021-02-19 16:20:00] DESC tbl_products
+[2021-02-19 16:20:00] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 16:20:05] DESC tbl_products
+[2021-02-19 16:20:11] DESC tbl_products
+[2021-02-19 16:20:11] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 16:20:31] DESC tbl_products
+[2021-02-19 16:20:35] DESC tbl_products
+[2021-02-19 16:20:35] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 16:20:38] DESC tbl_products
+[2021-02-19 16:21:26] DESC tbl_products
+[2021-02-19 16:21:26] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 16:22:23] DESC tbl_products
+[2021-02-19 16:22:23] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 16:22:24] DESC tbl_products
+[2021-02-19 16:22:24] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 16:30:35] DESC tbl_products
+[2021-02-19 16:30:35] DESC tbl_products_cat
+[2021-02-19 16:30:35] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 16:30:47] DESC tbl_products
+[2021-02-19 16:30:47] DESC tbl_products_cat
+[2021-02-19 16:30:47] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 16:30:47] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 16:30:48] DESC tbl_products
+[2021-02-19 16:30:48] DESC tbl_products_cat
+[2021-02-19 16:30:48] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 16:30:48] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 16:31:20] DESC tbl_products
+[2021-02-19 16:31:20] DESC tbl_products_cat
+[2021-02-19 16:31:20] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 16:31:20] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 16:31:21] DESC tbl_products
+[2021-02-19 16:31:21] DESC tbl_products_cat
+[2021-02-19 16:31:21] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 16:31:21] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 16:32:12] DESC tbl_products
+[2021-02-19 16:32:12] DESC tbl_products_cat
+[2021-02-19 16:32:12] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 16:32:12] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 16:32:13] DESC tbl_products
+[2021-02-19 16:32:13] DESC tbl_products_cat
+[2021-02-19 16:32:13] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 16:32:13] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 16:32:16] DESC tbl_products
+[2021-02-19 16:32:16] DESC tbl_products_cat
+[2021-02-19 16:32:16] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 16:32:41] DESC tbl_products
+[2021-02-19 16:32:41] DESC tbl_products_cat
+[2021-02-19 16:32:41] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 16:32:41] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 16:32:42] DESC tbl_products
+[2021-02-19 16:32:42] DESC tbl_products_cat
+[2021-02-19 16:32:42] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 16:32:42] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 16:32:46] DESC tbl_products
+[2021-02-19 16:32:46] DESC tbl_products_cat
+[2021-02-19 16:32:46] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 16:32:54] DESC tbl_products
+[2021-02-19 16:32:54] DESC tbl_products_cat
+[2021-02-19 16:32:54] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 16:32:54] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 16:32:54] DESC tbl_products
+[2021-02-19 16:32:54] DESC tbl_products_cat
+[2021-02-19 16:32:54] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 16:32:54] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 16:33:21] DESC tbl_products
+[2021-02-19 16:33:21] DESC tbl_products_cat
+[2021-02-19 16:33:21] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 16:33:21] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 16:33:23] DESC tbl_products
+[2021-02-19 16:33:23] DESC tbl_products_cat
+[2021-02-19 16:33:23] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 16:33:23] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 16:49:21] DESC tbl_products
+[2021-02-19 16:49:21] DESC tbl_products_cat
+[2021-02-19 16:49:21] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 16:49:21] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 16:49:22] DESC tbl_products
+[2021-02-19 16:49:22] DESC tbl_products_cat
+[2021-02-19 16:49:22] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 16:49:22] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 16:49:32] DESC tbl_products
+[2021-02-19 16:49:32] DESC tbl_products_cat
+[2021-02-19 16:49:32] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 16:49:32] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 16:49:33] DESC tbl_products
+[2021-02-19 16:49:33] DESC tbl_products_cat
+[2021-02-19 16:49:33] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 16:49:33] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 16:50:06] DESC tbl_products
+[2021-02-19 16:50:06] DESC tbl_products_cat
+[2021-02-19 16:50:06] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 16:50:07] DESC tbl_products
+[2021-02-19 16:50:07] DESC tbl_products_cat
+[2021-02-19 16:50:07] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 16:50:07] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 16:56:03] DESC tbl_products_cat
+[2021-02-19 16:56:03] DESC tbl_products
+[2021-02-19 16:56:03] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 16:56:03] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 16:56:22] DESC tbl_products_cat
+[2021-02-19 16:56:22] DESC tbl_products
+[2021-02-19 16:56:22] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 16:56:22] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 16:58:38] DESC tbl_products_cat
+[2021-02-19 16:58:38] DESC tbl_products
+[2021-02-19 16:58:38] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 16:58:38] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 16:58:47] DESC tbl_products
+[2021-02-19 16:58:47] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-19 16:58:52] DESC tbl_products_cat
+[2021-02-19 16:58:52] DESC tbl_products
+[2021-02-19 16:58:52] SELECT * FROM tbl_products WHERE id=7 LIMIT 1
+[2021-02-19 16:58:52] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 16:58:57] DESC tbl_products
+[2021-02-19 16:58:57] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-19 16:59:00] DESC tbl_products_cat
+[2021-02-19 16:59:00] DESC tbl_products
+[2021-02-19 16:59:00] SELECT * FROM tbl_products WHERE id=5 LIMIT 1
+[2021-02-19 16:59:00] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 16:59:15] DESC tbl_products
+[2021-02-19 16:59:15] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-19 16:59:19] DESC tbl_products
+[2021-02-19 16:59:19] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 16:59:19] DESC tbl_products
+[2021-02-19 16:59:19] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 16:59:22] DESC tbl_products
+[2021-02-19 16:59:22] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-19 16:59:24] DESC tbl_products_cat
+[2021-02-19 16:59:24] DESC tbl_products
+[2021-02-19 16:59:24] SELECT * FROM tbl_products WHERE id=2 LIMIT 1
+[2021-02-19 16:59:24] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 16:59:28] DESC tbl_products
+[2021-02-19 16:59:28] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-19 16:59:33] DESC tbl_products_cat
+[2021-02-19 16:59:33] DESC tbl_products
+[2021-02-19 16:59:33] SELECT * FROM tbl_products WHERE id=3 LIMIT 1
+[2021-02-19 16:59:33] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 16:59:35] DESC tbl_products
+[2021-02-19 16:59:35] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-19 16:59:37] DESC tbl_products_cat
+[2021-02-19 16:59:37] DESC tbl_products
+[2021-02-19 16:59:37] SELECT * FROM tbl_products WHERE id=6 LIMIT 1
+[2021-02-19 16:59:37] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 16:59:39] DESC tbl_products
+[2021-02-19 16:59:39] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-19 16:59:45] DESC tbl_products_cat
+[2021-02-19 16:59:45] DESC tbl_products
+[2021-02-19 16:59:45] SELECT * FROM tbl_products WHERE id=22 LIMIT 1
+[2021-02-19 16:59:45] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 16:59:47] DESC tbl_products
+[2021-02-19 16:59:47] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-19 17:01:01] DESC tbl_products_cat
+[2021-02-19 17:01:01] DESC tbl_products
+[2021-02-19 17:01:01] SELECT * FROM tbl_products WHERE id=7 LIMIT 1
+[2021-02-19 17:01:01] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:01:02] DESC tbl_products
+[2021-02-19 17:01:02] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-19 17:01:07] DESC tbl_products_cat
+[2021-02-19 17:01:07] DESC tbl_products
+[2021-02-19 17:01:07] SELECT * FROM tbl_products WHERE id=4 LIMIT 1
+[2021-02-19 17:01:07] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:01:09] DESC tbl_products
+[2021-02-19 17:01:09] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-19 17:03:44] DESC tbl_products
+[2021-02-19 17:03:44] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-19 17:03:48] DESC tbl_products_cat
+[2021-02-19 17:03:48] DESC tbl_products
+[2021-02-19 17:03:48] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:03:48] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:04:02] DESC tbl_products
+[2021-02-19 17:04:02] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-19 17:04:06] DESC tbl_products_cat
+[2021-02-19 17:04:06] DESC tbl_products
+[2021-02-19 17:04:06] SELECT * FROM tbl_products WHERE id=6 LIMIT 1
+[2021-02-19 17:04:06] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:10:12] DESC tbl_products_cat
+[2021-02-19 17:10:12] DESC tbl_products
+[2021-02-19 17:10:12] SELECT * FROM tbl_products WHERE id=6 LIMIT 1
+[2021-02-19 17:10:12] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:16:51] DESC tbl_products_cat
+[2021-02-19 17:16:51] DESC tbl_products
+[2021-02-19 17:16:51] SELECT * FROM tbl_products WHERE id=6 LIMIT 1
+[2021-02-19 17:16:51] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:16:55] DESC tbl_products_cat
+[2021-02-19 17:16:55] DESC tbl_products
+[2021-02-19 17:16:55] SELECT * FROM tbl_products WHERE id= LIMIT 1
+[2021-02-19 17:16:57] DESC tbl_products_cat
+[2021-02-19 17:16:57] DESC tbl_products
+[2021-02-19 17:16:57] SELECT * FROM tbl_products WHERE id=6 LIMIT 1
+[2021-02-19 17:16:57] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:16:57] DESC tbl_products
+[2021-02-19 17:16:57] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-19 17:17:00] DESC tbl_products_cat
+[2021-02-19 17:17:00] DESC tbl_products
+[2021-02-19 17:17:00] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:17:00] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:21:35] DESC tbl_products_cat
+[2021-02-19 17:21:35] DESC tbl_products
+[2021-02-19 17:21:35] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:21:35] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:22:45] DESC tbl_products_cat
+[2021-02-19 17:22:45] DESC tbl_products
+[2021-02-19 17:22:45] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:22:45] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:25:46] DESC tbl_products_cat
+[2021-02-19 17:25:46] DESC tbl_products
+[2021-02-19 17:25:46] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:25:46] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:26:02] DESC tbl_products_cat
+[2021-02-19 17:26:02] DESC tbl_products
+[2021-02-19 17:26:02] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:26:02] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:26:05] DESC tbl_products_cat
+[2021-02-19 17:26:05] DESC tbl_products
+[2021-02-19 17:26:05] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 17:26:20] DESC tbl_products_cat
+[2021-02-19 17:26:20] DESC tbl_products
+[2021-02-19 17:26:22] DESC tbl_products_cat
+[2021-02-19 17:26:22] DESC tbl_products
+[2021-02-19 17:26:22] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:26:22] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:26:22] DESC tbl_products_cat
+[2021-02-19 17:26:22] DESC tbl_products
+[2021-02-19 17:26:22] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 17:26:29] DESC tbl_products_cat
+[2021-02-19 17:26:29] DESC tbl_products
+[2021-02-19 17:26:39] DESC tbl_products_cat
+[2021-02-19 17:26:39] DESC tbl_products
+[2021-02-19 17:26:39] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:26:39] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:26:40] DESC tbl_products_cat
+[2021-02-19 17:26:40] DESC tbl_products
+[2021-02-19 17:26:40] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 17:27:32] DESC tbl_products_cat
+[2021-02-19 17:27:32] DESC tbl_products
+[2021-02-19 17:27:32] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:27:32] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:27:33] DESC tbl_products_cat
+[2021-02-19 17:27:33] DESC tbl_products
+[2021-02-19 17:27:33] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 17:28:02] DESC tbl_products_cat
+[2021-02-19 17:28:02] DESC tbl_products
+[2021-02-19 17:28:02] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:28:02] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:28:06] DESC tbl_products_cat
+[2021-02-19 17:28:06] DESC tbl_products
+[2021-02-19 17:28:06] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 17:28:25] DESC tbl_products_cat
+[2021-02-19 17:28:25] DESC tbl_products
+[2021-02-19 17:28:25] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:28:25] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:28:26] DESC tbl_products_cat
+[2021-02-19 17:28:26] DESC tbl_products
+[2021-02-19 17:28:26] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 17:28:51] DESC tbl_products_cat
+[2021-02-19 17:28:51] DESC tbl_products
+[2021-02-19 17:28:51] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:28:51] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:28:52] DESC tbl_products_cat
+[2021-02-19 17:28:52] DESC tbl_products
+[2021-02-19 17:28:52] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 17:29:41] DESC tbl_products_cat
+[2021-02-19 17:29:41] DESC tbl_products
+[2021-02-19 17:29:41] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:29:41] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:29:42] DESC tbl_products_cat
+[2021-02-19 17:29:42] DESC tbl_products
+[2021-02-19 17:29:42] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 17:29:59] DESC tbl_products_cat
+[2021-02-19 17:29:59] DESC tbl_products
+[2021-02-19 17:29:59] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:29:59] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:30:01] DESC tbl_products_cat
+[2021-02-19 17:30:01] DESC tbl_products
+[2021-02-19 17:30:01] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 17:30:22] DESC tbl_products_cat
+[2021-02-19 17:30:22] DESC tbl_products
+[2021-02-19 17:30:22] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:30:22] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:30:23] DESC tbl_products_cat
+[2021-02-19 17:30:23] DESC tbl_products
+[2021-02-19 17:30:23] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 17:30:35] DESC tbl_products_cat
+[2021-02-19 17:30:35] DESC tbl_products
+[2021-02-19 17:30:35] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:30:35] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:30:36] DESC tbl_products_cat
+[2021-02-19 17:30:36] DESC tbl_products
+[2021-02-19 17:30:36] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 17:30:40] DESC tbl_products_cat
+[2021-02-19 17:30:40] DESC tbl_products
+[2021-02-19 17:30:42] DESC tbl_products_cat
+[2021-02-19 17:30:42] DESC tbl_products
+[2021-02-19 17:30:42] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:30:42] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:30:47] DESC tbl_products_cat
+[2021-02-19 17:30:47] DESC tbl_products
+[2021-02-19 17:31:06] DESC tbl_products_cat
+[2021-02-19 17:31:06] DESC tbl_products
+[2021-02-19 17:31:06] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:31:06] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:31:07] DESC tbl_products_cat
+[2021-02-19 17:31:07] DESC tbl_products
+[2021-02-19 17:31:07] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 17:31:10] DESC tbl_products_cat
+[2021-02-19 17:31:10] DESC tbl_products
+[2021-02-19 17:31:13] DESC tbl_products_cat
+[2021-02-19 17:31:13] DESC tbl_products
+[2021-02-19 17:31:13] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:31:13] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:31:51] DESC tbl_products_cat
+[2021-02-19 17:31:51] DESC tbl_products
+[2021-02-19 17:31:51] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:31:51] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:31:53] DESC tbl_products_cat
+[2021-02-19 17:31:53] DESC tbl_products
+[2021-02-19 17:31:53] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 17:31:56] DESC tbl_products_cat
+[2021-02-19 17:31:56] DESC tbl_products
+[2021-02-19 17:32:24] DESC tbl_products_cat
+[2021-02-19 17:32:24] DESC tbl_products
+[2021-02-19 17:32:26] DESC tbl_products_cat
+[2021-02-19 17:32:26] DESC tbl_products
+[2021-02-19 17:32:26] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:32:26] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:32:33] DESC tbl_products_cat
+[2021-02-19 17:32:33] DESC tbl_products
+[2021-02-19 17:32:34] DESC tbl_products_cat
+[2021-02-19 17:32:34] DESC tbl_products
+[2021-02-19 17:32:34] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:32:34] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:32:40] DESC tbl_products_cat
+[2021-02-19 17:32:40] DESC tbl_products
+[2021-02-19 17:32:41] DESC tbl_products_cat
+[2021-02-19 17:32:41] DESC tbl_products
+[2021-02-19 17:32:41] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:32:41] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:32:48] DESC tbl_products_cat
+[2021-02-19 17:32:48] DESC tbl_products
+[2021-02-19 17:32:49] DESC tbl_products_cat
+[2021-02-19 17:32:49] DESC tbl_products
+[2021-02-19 17:32:49] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:32:49] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:35:57] DESC tbl_products_cat
+[2021-02-19 17:35:57] DESC tbl_products
+[2021-02-19 17:36:11] DESC tbl_products_cat
+[2021-02-19 17:36:11] DESC tbl_products
+[2021-02-19 17:36:11] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:36:11] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:36:12] DESC tbl_products_cat
+[2021-02-19 17:36:12] DESC tbl_products
+[2021-02-19 17:36:12] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 17:36:16] DESC tbl_products_cat
+[2021-02-19 17:36:16] DESC tbl_products
+[2021-02-19 17:36:16] UPDATE tbl_products SET product_name='LENOVO Thinkpad T470s',product_des='Suc cac',product_content='Máy xấu giá cao. Hàng ăn trộm chính hãng, thích thì mùa không thì thôi',product_unit='16990000',status='1',cat_id='2' WHERE id=23
+[2021-02-19 17:37:05] DESC tbl_products_cat
+[2021-02-19 17:37:05] DESC tbl_products
+[2021-02-19 17:37:05] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:37:05] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:37:06] DESC tbl_products_cat
+[2021-02-19 17:37:06] DESC tbl_products
+[2021-02-19 17:37:06] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 17:37:11] DESC tbl_products_cat
+[2021-02-19 17:37:11] DESC tbl_products
+[2021-02-19 17:37:11] UPDATE tbl_products SET product_name='LENOVO Thinkpad T470s',product_des='Suc cac',product_content='Máy xấu giá cao. Hàng ăn trộm chính hãng, thích thì mùa không thì thôi',product_unit='16990000',status='1' WHERE id=23
+[2021-02-19 17:37:16] DESC tbl_products_cat
+[2021-02-19 17:37:16] DESC tbl_products
+[2021-02-19 17:37:16] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:37:16] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:37:18] DESC tbl_products_cat
+[2021-02-19 17:37:18] DESC tbl_products
+[2021-02-19 17:37:18] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 17:37:23] DESC tbl_products_cat
+[2021-02-19 17:37:23] DESC tbl_products
+[2021-02-19 17:37:23] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:37:23] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:37:24] DESC tbl_products_cat
+[2021-02-19 17:37:24] DESC tbl_products
+[2021-02-19 17:37:24] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 17:37:29] DESC tbl_products
+[2021-02-19 17:37:29] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-19 17:37:33] DESC tbl_products_cat
+[2021-02-19 17:37:33] DESC tbl_products
+[2021-02-19 17:37:33] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:37:33] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:37:33] DESC tbl_products_cat
+[2021-02-19 17:37:33] DESC tbl_products
+[2021-02-19 17:37:33] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 17:39:55] DESC tbl_products_cat
+[2021-02-19 17:39:56] DESC tbl_products
+[2021-02-19 17:39:56] UPDATE tbl_products SET product_name='LENOVO Thinkpad T470s',product_des='Sức mạnh của fame',product_content='Máy xấu giá cao. Hàng ăn trộm chính hãng, thích thì mùa không thì thôi',product_unit='16990000',status='1' WHERE id=23
+[2021-02-19 17:43:09] DESC tbl_products_cat
+[2021-02-19 17:43:09] DESC tbl_products
+[2021-02-19 17:43:09] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:43:09] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:43:21] DESC tbl_products_cat
+[2021-02-19 17:43:21] DESC tbl_products
+[2021-02-19 17:43:21] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:43:21] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:43:23] DESC tbl_products_cat
+[2021-02-19 17:43:23] DESC tbl_products
+[2021-02-19 17:43:23] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 17:43:30] DESC tbl_products_cat
+[2021-02-19 17:43:30] DESC tbl_products
+[2021-02-19 17:43:30] UPDATE tbl_products SET product_name='LENOVO Thinkpad T470s',product_des='Sức mạnh của fame',product_content='Máy xấu giá cao. Hàng ăn trộm chính hãng, thích thì mùa không thì thôi',product_unit='16990000',status='1' WHERE id=23
+[2021-02-19 17:43:30] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:43:30] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:43:30] DESC tbl_products_cat
+[2021-02-19 17:43:30] DESC tbl_products
+[2021-02-19 17:43:30] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 17:44:04] DESC tbl_products_cat
+[2021-02-19 17:44:04] DESC tbl_products
+[2021-02-19 17:44:04] UPDATE tbl_products SET product_name='LENOVO Thinkpad T470s',product_des='Sức mạnh của fame',product_content='Máy xấu giá cao. Hàng ăn trộm chính hãng, thích thì mùa không thì thôi',product_unit='16990000',status='1' WHERE id=23
+[2021-02-19 17:44:04] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:44:04] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:44:05] DESC tbl_products_cat
+[2021-02-19 17:44:05] DESC tbl_products
+[2021-02-19 17:44:05] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 17:44:21] DESC tbl_products_cat
+[2021-02-19 17:44:21] DESC tbl_products
+[2021-02-19 17:44:21] UPDATE tbl_products SET product_name='LENOVO Thinkpad T470s',product_des='Sức mạnh của fame',product_content='Máy xấu giá cao. Hàng ăn trộm chính hãng, thích thì mùa không thì thôi',product_unit='16990000',status='1' WHERE id=23
+[2021-02-19 17:44:21] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:44:21] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:44:22] DESC tbl_products_cat
+[2021-02-19 17:44:22] DESC tbl_products
+[2021-02-19 17:44:22] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 17:44:46] DESC tbl_products_cat
+[2021-02-19 17:44:46] DESC tbl_products
+[2021-02-19 17:44:46] UPDATE tbl_products SET product_name='LENOVO Thinkpad T470s',product_des='Sức mạnh của fame',product_content='Máy xấu giá cao. Hàng ăn trộm chính hãng, thích thì mùa không thì thôi',product_unit='16990000',status='1' WHERE id=23
+[2021-02-19 17:44:46] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:44:46] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:44:47] DESC tbl_products_cat
+[2021-02-19 17:44:47] DESC tbl_products
+[2021-02-19 17:44:47] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 17:49:05] DESC tbl_products_cat
+[2021-02-19 17:49:05] DESC tbl_products
+[2021-02-19 17:49:05] UPDATE tbl_products SET product_name='LENOVO Thinkpad T470s',product_des='Sức mạnh của fame',product_content='Máy xấu giá cao. Hàng ăn trộm chính hãng, thích thì mùa không thì thôi',product_unit='16990000',status='1' WHERE id=23
+[2021-02-19 17:49:05] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:49:05] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:49:05] DESC tbl_products_cat
+[2021-02-19 17:49:05] DESC tbl_products
+[2021-02-19 17:49:05] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 17:49:21] DESC tbl_products_cat
+[2021-02-19 17:49:21] DESC tbl_products
+[2021-02-19 17:49:21] UPDATE tbl_products SET product_name='LENOVO Thinkpad T470s',product_des='Sức mạnh của fame',product_content='Máy xấu giá cao. Hàng ăn trộm chính hãng, thích thì mùa không thì thôi',product_unit='16990000',status='1' WHERE id=23
+[2021-02-19 17:49:21] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:49:21] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:49:22] DESC tbl_products_cat
+[2021-02-19 17:49:22] DESC tbl_products
+[2021-02-19 17:49:22] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 17:49:30] DESC tbl_products_cat
+[2021-02-19 17:49:30] DESC tbl_products
+[2021-02-19 17:49:30] UPDATE tbl_products SET product_name='LENOVO Thinkpad T470s',product_des='Sức mạnh của fame',product_content='Máy xấu giá cao. Hàng ăn trộm chính hãng, thích thì mùa không thì thôi',product_unit='16990000',status='1' WHERE id=23
+[2021-02-19 17:49:30] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:49:30] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:49:32] DESC tbl_products_cat
+[2021-02-19 17:49:32] DESC tbl_products
+[2021-02-19 17:49:32] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 17:50:01] DESC tbl_products_cat
+[2021-02-19 17:50:01] DESC tbl_products
+[2021-02-19 17:50:01] UPDATE tbl_products SET product_name='LENOVO Thinkpad T470s',product_des='Sức mạnh của fame',product_content='Máy xấu giá cao. Hàng ăn trộm chính hãng, thích thì mùa không thì thôi',product_unit='16990000',status='1' WHERE id=23
+[2021-02-19 17:50:01] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:50:01] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:50:02] DESC tbl_products_cat
+[2021-02-19 17:50:02] DESC tbl_products
+[2021-02-19 17:50:02] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 17:50:12] DESC tbl_products_cat
+[2021-02-19 17:50:12] DESC tbl_products
+[2021-02-19 17:50:12] UPDATE tbl_products SET product_name='LENOVO Thinkpad T470s',product_des='Sức mạnh của fame',product_content='Máy xấu giá cao. Hàng ăn trộm chính hãng, thích thì mùa không thì thôi',product_unit='16990000',status='1' WHERE id=23
+[2021-02-19 17:50:12] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:50:12] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:50:14] DESC tbl_products_cat
+[2021-02-19 17:50:14] DESC tbl_products
+[2021-02-19 17:50:14] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 17:50:35] DESC tbl_products_cat
+[2021-02-19 17:50:35] DESC tbl_products
+[2021-02-19 17:50:35] UPDATE tbl_products SET product_name='LENOVO Thinkpad T470s',product_des='Sức mạnh của fame',product_content='Máy xấu giá cao. Hàng ăn trộm chính hãng, thích thì mùa không thì thôi',product_unit='16990000',status='1' WHERE id=23
+[2021-02-19 17:50:35] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:50:35] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:50:36] DESC tbl_products_cat
+[2021-02-19 17:50:36] DESC tbl_products
+[2021-02-19 17:50:36] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 17:51:17] DESC tbl_products_cat
+[2021-02-19 17:51:17] DESC tbl_products
+[2021-02-19 17:51:17] UPDATE tbl_products SET product_name='LENOVO Thinkpad T470s',product_des='Sức mạnh của fame',product_content='Máy xấu giá cao. Hàng ăn trộm chính hãng, thích thì mùa không thì thôi',product_unit='16990000',status='1' WHERE id=23
+[2021-02-19 17:51:18] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:51:18] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:51:26] DESC tbl_products_cat
+[2021-02-19 17:51:26] DESC tbl_products
+[2021-02-19 17:51:26] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:51:26] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:51:29] DESC tbl_products_cat
+[2021-02-19 17:51:29] DESC tbl_products
+[2021-02-19 17:51:29] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:51:29] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:51:44] DESC tbl_products_cat
+[2021-02-19 17:51:44] DESC tbl_products
+[2021-02-19 17:51:44] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:51:44] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:51:45] DESC tbl_products_cat
+[2021-02-19 17:51:45] DESC tbl_products
+[2021-02-19 17:51:45] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 17:52:23] DESC tbl_products_cat
+[2021-02-19 17:52:23] DESC tbl_products
+[2021-02-19 17:52:23] UPDATE tbl_products SET product_name='LENOVO Thinkpad T470s',product_des='Sức mạnh của fame',product_content='Máy nói chung là cũng ổn, xài tốt mà đcm có tiền đếu đâu mà mua',product_unit='16990000',status='1' WHERE id=23
+[2021-02-19 17:52:23] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:52:23] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:52:24] DESC tbl_products_cat
+[2021-02-19 17:52:24] DESC tbl_products
+[2021-02-19 17:52:24] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 17:52:32] DESC tbl_products
+[2021-02-19 17:52:32] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-19 17:52:37] DESC tbl_products_cat
+[2021-02-19 17:52:37] DESC tbl_products
+[2021-02-19 17:52:37] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 17:52:37] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:52:37] DESC tbl_products_cat
+[2021-02-19 17:52:37] DESC tbl_products
+[2021-02-19 17:52:37] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 17:53:09] DESC tbl_products
+[2021-02-19 17:53:09] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-19 17:53:14] DESC tbl_products_cat
+[2021-02-19 17:53:14] DESC tbl_products
+[2021-02-19 17:53:14] SELECT * FROM tbl_products WHERE id=4 LIMIT 1
+[2021-02-19 17:53:14] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:53:14] DESC tbl_products_cat
+[2021-02-19 17:53:14] DESC tbl_products
+[2021-02-19 17:53:14] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 17:53:38] DESC tbl_products_cat
+[2021-02-19 17:53:38] DESC tbl_products
+[2021-02-19 17:53:38] UPDATE tbl_products SET product_name='ASUS TUF Gaming FX505',product_des='Không thích Asus cho lắm',product_content='Máy xấu, giá cao. Hàng xách tay lậu từ dải Gaza về, thích thì mua không thì thôi',product_unit='16450000',status='1' WHERE id=4
+[2021-02-19 17:53:38] SELECT * FROM tbl_products WHERE id=4 LIMIT 1
+[2021-02-19 17:53:38] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 17:53:39] DESC tbl_products_cat
+[2021-02-19 17:53:39] DESC tbl_products
+[2021-02-19 17:53:39] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 17:53:44] DESC tbl_products
+[2021-02-19 17:53:44] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-19 19:04:21] DESC tbl_products_cat
+[2021-02-19 19:04:21] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 19:04:21] DESC tbl_products
+[2021-02-19 19:04:21] SELECT * FROM tbl_products WHERE cat_id=5
+[2021-02-19 19:04:21] SELECT * FROM tbl_products WHERE cat_id=4
+[2021-02-19 19:04:21] SELECT * FROM tbl_products WHERE cat_id=3
+[2021-02-19 19:04:21] SELECT * FROM tbl_products WHERE cat_id=2
+[2021-02-19 19:04:21] SELECT * FROM tbl_products WHERE cat_id=1
+[2021-02-19 19:04:26] DESC tbl_products
+[2021-02-19 19:04:26] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 19:04:26] DESC tbl_products_cat
+[2021-02-19 19:04:26] SELECT * FROM tbl_products_cat WHERE id=1 LIMIT 1
+[2021-02-19 19:04:26] SELECT * FROM tbl_products WHERE cat_id=1
+[2021-02-19 19:04:38] DESC tbl_products
+[2021-02-19 19:04:38] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 19:06:51] DESC tbl_products
+[2021-02-19 19:06:51] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-19 19:06:54] DESC tbl_products_cat
+[2021-02-19 19:06:54] DESC tbl_products
+[2021-02-19 19:06:54] SELECT * FROM tbl_products WHERE id=7 LIMIT 1
+[2021-02-19 19:06:54] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 19:06:54] DESC tbl_products_cat
+[2021-02-19 19:06:54] DESC tbl_products
+[2021-02-19 19:06:54] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 19:07:04] DESC tbl_products_cat
+[2021-02-19 19:07:04] DESC tbl_products
+[2021-02-19 19:07:04] UPDATE tbl_products SET product_name='MACBOOK Pro M1 2020',product_des='Sức mạnh thời đại',product_content='Máy xấu, giá cao. Hàng xách tay lậu từ dải Gaza về, thích thì mua không thì thôi',product_unit='30990000',status='0' WHERE id=7
+[2021-02-19 19:07:04] SELECT * FROM tbl_products WHERE id=7 LIMIT 1
+[2021-02-19 19:07:04] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 19:07:04] DESC tbl_products_cat
+[2021-02-19 19:07:04] DESC tbl_products
+[2021-02-19 19:07:04] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 19:07:08] DESC tbl_products
+[2021-02-19 19:07:08] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-19 19:07:14] DESC tbl_products_cat
+[2021-02-19 19:07:14] DESC tbl_products
+[2021-02-19 19:07:14] SELECT * FROM tbl_products WHERE id=7 LIMIT 1
+[2021-02-19 19:07:14] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 19:07:14] DESC tbl_products_cat
+[2021-02-19 19:07:14] DESC tbl_products
+[2021-02-19 19:07:14] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 19:07:18] DESC tbl_products_cat
+[2021-02-19 19:07:18] DESC tbl_products
+[2021-02-19 19:07:18] UPDATE tbl_products SET product_name='MACBOOK Pro M1 2020',product_des='Sức mạnh thời đại',product_content='Máy xấu, giá cao. Hàng xách tay lậu từ dải Gaza về, thích thì mua không thì thôi',product_unit='30990000',status='1' WHERE id=7
+[2021-02-19 19:07:18] SELECT * FROM tbl_products WHERE id=7 LIMIT 1
+[2021-02-19 19:07:18] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 19:07:18] DESC tbl_products_cat
+[2021-02-19 19:07:18] DESC tbl_products
+[2021-02-19 19:07:18] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 19:07:22] DESC tbl_products_cat
+[2021-02-19 19:07:22] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 19:07:38] DESC tbl_products
+[2021-02-19 19:07:38] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-19 19:07:46] DESC tbl_orders
+[2021-02-19 19:07:46] SELECT * FROM tbl_orders ORDER BY id DESC LIMIT 30
+[2021-02-19 19:07:53] DESC tbl_orders
+[2021-02-19 19:07:53] SELECT * FROM tbl_orders WHERE id=4 LIMIT 1
+[2021-02-19 19:07:53] DESC tbl_orders_detail
+[2021-02-19 19:07:53] SELECT * FROM tbl_orders_detail WHERE order_id=4
+[2021-02-19 19:07:54] DESC tbl_orders
+[2021-02-19 19:07:54] SELECT * FROM tbl_orders WHERE id=js LIMIT 1
+[2021-02-19 19:08:41] DESC tbl_products
+[2021-02-19 19:08:41] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-19 19:12:55] DESC tbl_products
+[2021-02-19 19:12:55] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-19 19:13:42] DESC tbl_products
+[2021-02-19 19:13:42] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-19 19:13:46] DESC tbl_products
+[2021-02-19 19:13:47] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-19 19:18:30] DESC tbl_products
+[2021-02-19 19:18:30] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-19 19:34:11] DESC tbl_products
+[2021-02-19 19:34:11] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-19 19:37:50] DESC tbl_products
+[2021-02-19 19:37:50] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-19 19:37:53] DESC tbl_products_cat
+[2021-02-19 19:37:53] DESC tbl_products
+[2021-02-19 19:37:53] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 19:37:53] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 19:37:53] DESC tbl_products_cat
+[2021-02-19 19:37:53] DESC tbl_products
+[2021-02-19 19:37:53] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 19:38:00] DESC tbl_products_cat
+[2021-02-19 19:38:00] DESC tbl_products
+[2021-02-19 19:38:00] UPDATE tbl_products SET product_name='LENOVO Thinkpad T470s',product_des='Sức mạnh của fame',product_content='Máy nói chung là cũng ổn, xài tốt mà đcm có tiền đếu đâu mà mua',product_unit='16990000',status='1',updated_at='2021-02-19 19:38:00',cat_id='4' WHERE id=23
+[2021-02-19 19:38:00] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 19:38:00] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 19:38:00] DESC tbl_products_cat
+[2021-02-19 19:38:00] DESC tbl_products
+[2021-02-19 19:38:00] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 19:38:05] DESC tbl_products_cat
+[2021-02-19 19:38:05] DESC tbl_products
+[2021-02-19 19:38:05] UPDATE tbl_products SET product_name='LENOVO Thinkpad T470s',product_des='Sức mạnh của fame',product_content='Máy nói chung là cũng ổn, xài tốt mà đcm có tiền đếu đâu mà mua',product_unit='16990000',status='1',updated_at='2021-02-19 19:38:05',cat_id='1' WHERE id=23
+[2021-02-19 19:38:05] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-19 19:38:05] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 19:38:05] DESC tbl_products_cat
+[2021-02-19 19:38:05] DESC tbl_products
+[2021-02-19 19:38:05] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-19 19:42:10] DESC tbl_products_cat
+[2021-02-19 19:42:10] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 21:24:25] DESC tbl_products_cat
+[2021-02-19 21:24:25] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 21:24:29] DESC tbl_products
+[2021-02-19 21:24:29] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-19 21:24:39] DESC tbl_products
+[2021-02-19 21:24:39] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-19 21:24:41] DESC tbl_product_cats
+[2021-02-19 21:25:45] DESC tbl_products_cat
+[2021-02-19 21:25:45] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 21:26:53] DESC tbl_products_cat
+[2021-02-19 21:26:53] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 21:27:48] DESC tbl_products_cat
+[2021-02-19 21:27:48] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 21:28:08] DESC tbl_products_cat
+[2021-02-19 21:28:08] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 21:28:18] DESC tbl_products_cat
+[2021-02-19 21:28:18] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 21:28:24] DESC tbl_products_cat
+[2021-02-19 21:28:24] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 21:28:26] DESC tbl_products_cat
+[2021-02-19 21:28:26] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 21:29:59] DESC tbl_products_cat
+[2021-02-19 21:29:59] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 21:30:17] DESC tbl_products_cat
+[2021-02-19 21:30:17] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 21:30:21] DESC tbl_products_cat
+[2021-02-19 21:30:21] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 21:35:30] DESC tbl_products_cat
+[2021-02-19 21:35:30] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 21:36:12] DESC tbl_products_cat
+[2021-02-19 21:36:12] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 21:36:50] DESC tbl_products_cat
+[2021-02-19 21:36:50] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 21:36:56] DESC tbl_products_cat
+[2021-02-19 21:36:56] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 21:37:02] DESC tbl_products_cat
+[2021-02-19 21:37:02] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 21:39:11] DESC tbl_products_cat
+[2021-02-19 21:39:11] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 21:39:19] DESC tbl_products
+[2021-02-19 21:39:19] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-19 21:39:21] DESC tbl_products_cat
+[2021-02-19 21:39:21] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 21:44:30] DESC tbl_products_cat
+[2021-02-19 21:44:30] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 21:44:34] DESC tbl_products_cat
+[2021-02-19 21:44:34] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 21:46:22] DESC tbl_products_cat
+[2021-02-19 21:46:22] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 21:46:55] DESC tbl_products
+[2021-02-19 21:46:55] DESC tbl_products_cat
+[2021-02-19 21:46:55] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 21:47:25] DESC tbl_products
+[2021-02-19 21:47:25] DESC tbl_products_cat
+[2021-02-19 21:47:25] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 21:48:21] DESC tbl_products
+[2021-02-19 21:48:21] DESC tbl_products_cat
+[2021-02-19 21:48:21] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 21:48:28] DESC tbl_products
+[2021-02-19 21:48:28] DESC tbl_products_cat
+[2021-02-19 21:48:28] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 21:48:28] INSERT INTO tbl_products(product_name,product_des,product_content,product_unit,status,created_at,updated_at,cat_id) VALUES('a','b','v','1','1','2021-02-19 21:48:28','2021-02-19 21:48:28','8')
+[2021-02-19 21:48:39] DESC tbl_products
+[2021-02-19 21:48:39] DESC tbl_products_cat
+[2021-02-19 21:48:39] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 21:49:53] DESC tbl_products
+[2021-02-19 21:49:53] DESC tbl_products_cat
+[2021-02-19 21:49:53] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-19 21:49:53] INSERT INTO tbl_products(product_name,product_des,product_content,product_unit,status,created_at,updated_at,cat_id) VALUES('Toshiba Ultrabook Portege Z930','Siêu mỏng nhẹ chỉ 899gr','Intel core i7 3427U, RAM 4GB, SSD 128GB, LCD HD 13''','4690000','1','2021-02-19 21:49:53','2021-02-19 21:49:53','8')
+[2021-02-19 21:49:53] DESC tbl_products
+[2021-02-19 21:49:53] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-19 21:51:55] DESC tbl_products
+[2021-02-19 21:51:55] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-19 21:51:58] DESC tbl_products
+[2021-02-19 21:51:58] DELETE FROM tbl_products WHERE id=25
+[2021-02-19 21:51:58] DESC tbl_products
+[2021-02-19 21:51:58] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-20 09:31:35] DESC tbl_products_cat
+[2021-02-20 09:31:35] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-20 09:31:35] DESC tbl_products
+[2021-02-20 09:31:35] SELECT * FROM tbl_products WHERE cat_id=8
+[2021-02-20 09:31:35] SELECT * FROM tbl_products WHERE cat_id=7
+[2021-02-20 09:31:35] SELECT * FROM tbl_products WHERE cat_id=6
+[2021-02-20 09:31:35] SELECT * FROM tbl_products WHERE cat_id=5
+[2021-02-20 09:31:35] SELECT * FROM tbl_products WHERE cat_id=4
+[2021-02-20 09:31:35] SELECT * FROM tbl_products WHERE cat_id=3
+[2021-02-20 09:31:35] SELECT * FROM tbl_products WHERE cat_id=2
+[2021-02-20 09:31:35] SELECT * FROM tbl_products WHERE cat_id=1
+[2021-02-20 09:31:41] DESC tbl_products
+[2021-02-20 09:31:41] SELECT * FROM tbl_products WHERE id=7 LIMIT 1
+[2021-02-20 09:31:41] DESC tbl_products_cat
+[2021-02-20 09:31:41] SELECT * FROM tbl_products_cat WHERE id=5 LIMIT 1
+[2021-02-20 09:31:41] SELECT * FROM tbl_products WHERE cat_id=5
+[2021-02-20 09:31:48] DESC tbl_products_cat
+[2021-02-20 09:31:48] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-20 09:31:53] DESC tbl_products
+[2021-02-20 09:31:53] SELECT * FROM tbl_products WHERE id=7 LIMIT 1
+[2021-02-20 09:31:53] DESC tbl_products_cat
+[2021-02-20 09:31:53] SELECT * FROM tbl_products_cat WHERE id=5 LIMIT 1
+[2021-02-20 09:31:53] SELECT * FROM tbl_products WHERE cat_id=5
+[2021-02-20 09:31:57] DESC tbl_products
+[2021-02-20 09:31:57] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-20 09:31:58] DESC tbl_products
+[2021-02-20 09:31:58] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-20 09:32:04] DESC tbl_products
+[2021-02-20 09:32:04] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-20 09:32:05] DESC tbl_products
+[2021-02-20 09:32:05] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-20 09:32:08] DESC tbl_products
+[2021-02-20 09:32:08] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-20 09:32:10] DESC tbl_products
+[2021-02-20 09:32:10] DESC tbl_products_cat
+[2021-02-20 09:32:10] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-20 09:32:23] DESC tbl_products
+[2021-02-20 09:32:23] DESC tbl_products_cat
+[2021-02-20 09:32:23] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-20 09:32:23] INSERT INTO tbl_products(product_name,product_des,product_content,product_unit,status,created_at,updated_at,cat_id) VALUES('Ghẻ','Ghẻ','Ghẻ','1','1','2021-02-20 09:32:23','2021-02-20 09:32:23','8')
+[2021-02-20 09:32:23] DESC tbl_products
+[2021-02-20 09:32:23] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-20 09:32:26] DESC tbl_products
+[2021-02-20 09:32:26] DELETE FROM tbl_products WHERE id=24
+[2021-02-20 09:32:26] DESC tbl_products
+[2021-02-20 09:32:26] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-20 09:32:35] DESC tbl_products_cat
+[2021-02-20 09:32:35] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-20 09:56:06] DESC tbl_products_cat
+[2021-02-20 09:56:06] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-20 09:56:10] DESC tbl_products_cat
+[2021-02-20 09:56:10] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-20 09:57:21] DESC tbl_products_cat
+[2021-02-20 09:57:21] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-20 09:58:53] DESC tbl_products_cat
+[2021-02-20 09:58:53] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-20 09:58:57] DESC tbl_products_cat
+[2021-02-20 09:58:57] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-20 09:59:01] DESC tbl_products_cat
+[2021-02-20 09:59:01] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-20 09:59:05] DESC tbl_products_cat
+[2021-02-20 09:59:05] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-20 10:02:23] DESC tbl_products_cat
+[2021-02-20 10:02:23] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-20 10:02:28] DESC tbl_products_cat
+[2021-02-20 10:02:28] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-20 10:02:31] DESC tbl_products_cat
+[2021-02-20 10:02:31] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-20 10:03:55] DESC tbl_products
+[2021-02-20 10:03:55] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-20 10:04:01] DESC tbl_products_cat
+[2021-02-20 10:04:01] DESC tbl_products
+[2021-02-20 10:04:01] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-20 10:04:01] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-20 10:04:01] DESC tbl_products_cat
+[2021-02-20 10:04:01] DESC tbl_products
+[2021-02-20 10:04:01] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-20 10:04:05] DESC tbl_products_cat
+[2021-02-20 10:04:05] DESC tbl_products
+[2021-02-20 10:04:05] UPDATE tbl_products SET product_name='LENOVO Thinkpad T470s',product_des='Sức mạnh của fame',product_content='Máy nói chung là cũng ổn, xài tốt mà đcm có tiền đếu đâu mà mua',product_unit='16990000',status='0',updated_at='2021-02-20 10:04:05',cat_id='1' WHERE id=23
+[2021-02-20 10:04:05] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-20 10:04:05] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-20 10:04:05] DESC tbl_products_cat
+[2021-02-20 10:04:05] DESC tbl_products
+[2021-02-20 10:04:05] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-20 10:04:10] DESC tbl_products
+[2021-02-20 10:04:10] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-20 10:04:12] DESC tbl_products_cat
+[2021-02-20 10:04:12] DESC tbl_products
+[2021-02-20 10:04:12] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-20 10:04:12] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-20 10:04:12] DESC tbl_products_cat
+[2021-02-20 10:04:12] DESC tbl_products
+[2021-02-20 10:04:12] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-20 10:04:15] DESC tbl_products_cat
+[2021-02-20 10:04:15] DESC tbl_products
+[2021-02-20 10:04:15] UPDATE tbl_products SET product_name='LENOVO Thinkpad T470s',product_des='Sức mạnh của fame',product_content='Máy nói chung là cũng ổn, xài tốt mà đcm có tiền đếu đâu mà mua',product_unit='16990000',status='1',updated_at='2021-02-20 10:04:15',cat_id='1' WHERE id=23
+[2021-02-20 10:04:15] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-20 10:04:15] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-20 10:04:15] DESC tbl_products_cat
+[2021-02-20 10:04:15] DESC tbl_products
+[2021-02-20 10:04:15] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-20 10:04:20] DESC tbl_products
+[2021-02-20 10:04:20] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-20 11:01:53] DESC tbl_products
+[2021-02-20 11:01:53] DESC tbl_products_cat
+[2021-02-20 11:01:53] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-20 11:01:58] DESC tbl_products
+[2021-02-20 11:01:58] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-24 20:45:59] DESC tbl_products_cat
+[2021-02-24 20:45:59] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-24 20:45:59] DESC tbl_products
+[2021-02-24 20:45:59] SELECT * FROM tbl_products WHERE cat_id=8
+[2021-02-24 20:45:59] SELECT * FROM tbl_products WHERE cat_id=7
+[2021-02-24 20:45:59] SELECT * FROM tbl_products WHERE cat_id=6
+[2021-02-24 20:45:59] SELECT * FROM tbl_products WHERE cat_id=5
+[2021-02-24 20:45:59] SELECT * FROM tbl_products WHERE cat_id=4
+[2021-02-24 20:45:59] SELECT * FROM tbl_products WHERE cat_id=3
+[2021-02-24 20:45:59] SELECT * FROM tbl_products WHERE cat_id=2
+[2021-02-24 20:45:59] SELECT * FROM tbl_products WHERE cat_id=1
+[2021-02-24 20:46:03] DESC tbl_products
+[2021-02-24 20:46:03] SELECT * FROM tbl_products WHERE id=7 LIMIT 1
+[2021-02-24 20:46:03] DESC tbl_products_cat
+[2021-02-24 20:46:03] SELECT * FROM tbl_products_cat WHERE id=5 LIMIT 1
+[2021-02-24 20:46:03] SELECT * FROM tbl_products WHERE cat_id=5
+[2021-02-24 20:46:14] DESC tbl_products
+[2021-02-24 20:46:14] SELECT * FROM tbl_products WHERE id=5 LIMIT 1
+[2021-02-24 20:46:14] DESC tbl_products_cat
+[2021-02-24 20:46:14] SELECT * FROM tbl_products_cat WHERE id=5 LIMIT 1
+[2021-02-24 20:46:14] SELECT * FROM tbl_products WHERE cat_id=5
+[2021-02-24 20:46:27] DESC tbl_products
+[2021-02-24 20:46:27] SELECT * FROM tbl_products WHERE id=5 LIMIT 1
+[2021-02-24 20:46:27] DESC tbl_products_cat
+[2021-02-24 20:46:27] SELECT * FROM tbl_products_cat WHERE id=5 LIMIT 1
+[2021-02-24 20:46:27] SELECT * FROM tbl_products WHERE cat_id=5
+[2021-02-24 20:51:24] DESC tbl_products
+[2021-02-24 20:51:24] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-24 20:51:24] DESC tbl_products
+[2021-02-24 20:51:24] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-24 20:51:29] DESC tbl_products_cat
+[2021-02-24 20:51:29] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-24 20:51:40] DESC tbl_products_cat
+[2021-02-24 20:51:40] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-24 20:59:57] DESC tbl_products_cat
+[2021-02-24 20:59:57] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 20:59:58] DESC tbl_products_cat
+[2021-02-24 20:59:58] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:00:31] DESC tbl_products_cat
+[2021-02-24 21:00:31] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 21:00:32] DESC tbl_products_cat
+[2021-02-24 21:00:32] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:02:01] DESC tbl_products_cat
+[2021-02-24 21:02:01] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 21:02:02] DESC tbl_products_cat
+[2021-02-24 21:02:02] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:06:06] DESC tbl_products_cat
+[2021-02-24 21:06:06] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 21:06:06] DESC tbl_products_cat
+[2021-02-24 21:06:06] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:06:22] DESC tbl_products_cat
+[2021-02-24 21:06:22] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 21:06:23] DESC tbl_products_cat
+[2021-02-24 21:06:23] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:06:41] DESC tbl_products_cat
+[2021-02-24 21:06:41] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 21:06:42] DESC tbl_products_cat
+[2021-02-24 21:06:42] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:09:00] DESC tbl_products_cat
+[2021-02-24 21:09:00] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 21:09:01] DESC tbl_products_cat
+[2021-02-24 21:09:01] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:10:10] DESC tbl_products_cat
+[2021-02-24 21:10:10] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 21:10:11] DESC tbl_products_cat
+[2021-02-24 21:10:11] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:10:20] DESC tbl_products_cat
+[2021-02-24 21:10:20] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 21:10:21] DESC tbl_products_cat
+[2021-02-24 21:10:21] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:12:11] DESC tbl_products_cat
+[2021-02-24 21:12:11] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 21:12:11] DESC tbl_products_cat
+[2021-02-24 21:12:11] SELECT * FROM tbl_products_cat WHERE id=<br LIMIT 1
+[2021-02-24 21:12:11] DESC tbl_products_cat
+[2021-02-24 21:12:11] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:12:33] DESC tbl_products_cat
+[2021-02-24 21:12:33] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 21:12:34] DESC tbl_products_cat
+[2021-02-24 21:12:34] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:16:36] DESC tbl_products_cat
+[2021-02-24 21:16:36] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 21:16:36] DESC tbl_products_cat
+[2021-02-24 21:16:36] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:18:03] DESC tbl_products_cat
+[2021-02-24 21:18:03] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 21:18:03] DESC tbl_products_cat
+[2021-02-24 21:18:03] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:18:21] DESC tbl_products_cat
+[2021-02-24 21:18:21] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 21:18:22] DESC tbl_products_cat
+[2021-02-24 21:18:22] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:18:33] DESC tbl_products_cat
+[2021-02-24 21:18:33] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 21:18:34] DESC tbl_products_cat
+[2021-02-24 21:18:34] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:18:53] DESC tbl_products_cat
+[2021-02-24 21:18:53] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 21:18:53] DESC tbl_products_cat
+[2021-02-24 21:18:53] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:19:19] DESC tbl_products_cat
+[2021-02-24 21:19:19] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 21:19:20] DESC tbl_products_cat
+[2021-02-24 21:19:20] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:19:28] DESC tbl_products_cat
+[2021-02-24 21:19:28] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 21:19:28] DESC tbl_products_cat
+[2021-02-24 21:19:28] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:19:59] DESC tbl_products_cat
+[2021-02-24 21:19:59] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 21:20:00] DESC tbl_products_cat
+[2021-02-24 21:20:00] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:20:18] DESC tbl_products_cat
+[2021-02-24 21:20:18] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 21:20:19] DESC tbl_products_cat
+[2021-02-24 21:20:19] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:20:35] DESC tbl_products_cat
+[2021-02-24 21:20:35] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 21:20:36] DESC tbl_products_cat
+[2021-02-24 21:20:36] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:20:42] DESC tbl_products_cat
+[2021-02-24 21:20:42] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 21:20:42] DESC tbl_products_cat
+[2021-02-24 21:20:42] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:21:20] DESC tbl_products_cat
+[2021-02-24 21:21:20] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 21:21:20] DESC tbl_products_cat
+[2021-02-24 21:21:20] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:21:32] DESC tbl_products_cat
+[2021-02-24 21:21:32] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 21:21:33] DESC tbl_products_cat
+[2021-02-24 21:21:33] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:21:44] DESC tbl_products_cat
+[2021-02-24 21:21:44] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 21:21:44] DESC tbl_products_cat
+[2021-02-24 21:21:44] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:21:59] DESC tbl_products_cat
+[2021-02-24 21:21:59] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 21:22:00] DESC tbl_products_cat
+[2021-02-24 21:22:00] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:23:15] DESC tbl_products_cat
+[2021-02-24 21:23:15] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 21:23:16] DESC tbl_products_cat
+[2021-02-24 21:23:16] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:23:25] DESC tbl_products_cat
+[2021-02-24 21:23:25] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 21:23:26] DESC tbl_products_cat
+[2021-02-24 21:23:26] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:23:40] DESC tbl_products_cat
+[2021-02-24 21:23:40] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 21:23:40] DESC tbl_products_cat
+[2021-02-24 21:23:40] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:24:29] DESC tbl_products_cat
+[2021-02-24 21:24:29] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 21:24:30] DESC tbl_products_cat
+[2021-02-24 21:24:30] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:24:43] DESC tbl_products_cat
+[2021-02-24 21:24:43] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 21:24:44] DESC tbl_products_cat
+[2021-02-24 21:24:44] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:24:55] DESC tbl_products_cat
+[2021-02-24 21:24:55] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 21:24:55] DESC tbl_products_cat
+[2021-02-24 21:24:55] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:25:09] DESC tbl_products_cat
+[2021-02-24 21:25:09] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 21:25:09] DESC tbl_products_cat
+[2021-02-24 21:25:09] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:26:46] DESC tbl_products_cat
+[2021-02-24 21:26:46] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 21:26:47] DESC tbl_products_cat
+[2021-02-24 21:26:47] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:27:25] DESC tbl_products_cat
+[2021-02-24 21:27:25] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 21:27:26] DESC tbl_products_cat
+[2021-02-24 21:27:26] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:28:06] DESC tbl_products_cat
+[2021-02-24 21:28:06] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 21:28:06] DESC tbl_products_cat
+[2021-02-24 21:28:06] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:28:46] DESC tbl_products_cat
+[2021-02-24 21:28:46] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 21:28:46] DESC tbl_products_cat
+[2021-02-24 21:28:46] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:28:48] DESC tbl_products_cat
+[2021-02-24 21:28:48] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 21:28:50] DESC tbl_products_cat
+[2021-02-24 21:28:50] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:28:53] DESC tbl_products_cat
+[2021-02-24 21:28:53] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-24 21:28:55] DESC tbl_products_cat
+[2021-02-24 21:28:55] SELECT * FROM tbl_products_cat WHERE id=5 LIMIT 1
+[2021-02-24 21:28:55] DESC tbl_products_cat
+[2021-02-24 21:28:55] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:39:28] DESC tbl_products_cat
+[2021-02-24 21:39:28] SELECT * FROM tbl_products_cat WHERE id=5 LIMIT 1
+[2021-02-24 21:39:28] DESC tbl_products_cat
+[2021-02-24 21:39:28] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:40:07] DESC tbl_products_cat
+[2021-02-24 21:40:07] SELECT * FROM tbl_products_cat WHERE id=5 LIMIT 1
+[2021-02-24 21:40:07] DESC tbl_products_cat
+[2021-02-24 21:40:07] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:40:09] DESC tbl_products_cat
+[2021-02-24 21:40:09] SELECT * FROM tbl_products_cat WHERE id=5 LIMIT 1
+[2021-02-24 21:40:45] DESC tbl_products_cat
+[2021-02-24 21:40:45] SELECT * FROM tbl_products_cat WHERE id=5 LIMIT 1
+[2021-02-24 21:40:46] DESC tbl_products_cat
+[2021-02-24 21:40:46] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:40:54] DESC tbl_products_cat
+[2021-02-24 21:40:54] SELECT * FROM tbl_products_cat WHERE id=5 LIMIT 1
+[2021-02-24 21:40:54] DESC tbl_products_cat
+[2021-02-24 21:40:54] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:44:18] DESC tbl_products_cat
+[2021-02-24 21:44:18] SELECT * FROM tbl_products_cat WHERE id=5 LIMIT 1
+[2021-02-24 21:44:19] DESC tbl_products_cat
+[2021-02-24 21:44:19] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:44:22] DESC tbl_products_cat
+[2021-02-24 21:44:22] SELECT * FROM tbl_products_cat WHERE id=5 LIMIT 1
+[2021-02-24 21:49:01] DESC tbl_products_cat
+[2021-02-24 21:49:01] SELECT * FROM tbl_products_cat WHERE id=5 LIMIT 1
+[2021-02-24 21:50:01] DESC tbl_products_cat
+[2021-02-24 21:50:01] SELECT * FROM tbl_products_cat WHERE id=5 LIMIT 1
+[2021-02-24 21:50:01] DESC tbl_products_cat
+[2021-02-24 21:50:01] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:50:12] DESC tbl_products_cat
+[2021-02-24 21:50:12] SELECT * FROM tbl_products_cat WHERE id=5 LIMIT 1
+[2021-02-24 21:50:12] DESC tbl_products_cat
+[2021-02-24 21:50:12] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:50:16] DESC tbl_products_cat
+[2021-02-24 21:50:16] SELECT * FROM tbl_products_cat WHERE id=5 LIMIT 1
+[2021-02-24 21:50:57] DESC tbl_products_cat
+[2021-02-24 21:50:57] SELECT * FROM tbl_products_cat WHERE id=5 LIMIT 1
+[2021-02-24 21:50:57] DESC tbl_products_cat
+[2021-02-24 21:50:57] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:50:59] DESC tbl_products_cat
+[2021-02-24 21:50:59] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-24 21:51:08] DESC tbl_products_cat
+[2021-02-24 21:51:08] SELECT * FROM tbl_products_cat WHERE id=1 LIMIT 1
+[2021-02-24 21:51:08] DESC tbl_products_cat
+[2021-02-24 21:51:08] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:51:13] DESC tbl_products_cat
+[2021-02-24 21:51:13] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-24 21:51:30] DESC tbl_products_cat
+[2021-02-24 21:51:30] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-24 21:51:31] DESC tbl_products_cat
+[2021-02-24 21:51:31] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 21:51:31] DESC tbl_products_cat
+[2021-02-24 21:51:31] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:51:38] DESC tbl_products_cat
+[2021-02-24 21:51:38] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-24 21:51:49] DESC tbl_products_cat
+[2021-02-24 21:51:49] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-24 21:51:53] DESC tbl_products_cat
+[2021-02-24 21:51:53] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-24 21:54:13] DESC tbl_products_cat
+[2021-02-24 21:54:13] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-24 21:54:16] DESC tbl_products_cat
+[2021-02-24 21:54:16] SELECT * FROM tbl_products_cat WHERE id=2 LIMIT 1
+[2021-02-24 21:54:16] DESC tbl_products_cat
+[2021-02-24 21:54:16] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:54:53] DESC tbl_products_cat
+[2021-02-24 21:54:53] SELECT * FROM tbl_products_cat WHERE id=2 LIMIT 1
+[2021-02-24 21:54:53] DESC tbl_products_cat
+[2021-02-24 21:54:53] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 21:54:56] DESC tbl_products_cat
+[2021-02-24 21:54:56] SELECT * FROM tbl_products_cat WHERE id=2 LIMIT 1
+[2021-02-24 21:55:01] DESC tbl_products_cat
+[2021-02-24 21:55:01] SELECT * FROM tbl_products_cat WHERE id=2 LIMIT 1
+[2021-02-24 22:17:43] DESC tbl_products_cat
+[2021-02-24 22:17:43] SELECT * FROM tbl_products_cat WHERE id=2 LIMIT 1
+[2021-02-24 22:17:44] DESC tbl_products_cat
+[2021-02-24 22:17:44] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 22:20:03] DESC tbl_products_cat
+[2021-02-24 22:20:03] SELECT * FROM tbl_products_cat WHERE id=2 LIMIT 1
+[2021-02-24 22:20:06] DESC tbl_products_cat
+[2021-02-24 22:20:06] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-24 22:20:11] DESC tbl_products_cat
+[2021-02-24 22:20:11] SELECT * FROM tbl_products_cat WHERE id=3 LIMIT 1
+[2021-02-24 22:20:11] DESC tbl_products_cat
+[2021-02-24 22:20:11] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 22:20:16] DESC tbl_products_cat
+[2021-02-24 22:20:16] SELECT * FROM tbl_products_cat WHERE id=3 LIMIT 1
+[2021-02-24 22:20:16] DESC tbl_products_cat
+[2021-02-24 22:20:16] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 22:32:06] DESC tbl_products_cat
+[2021-02-24 22:32:06] SELECT * FROM tbl_products_cat WHERE id=3 LIMIT 1
+[2021-02-24 22:32:06] DESC tbl_products_cat
+[2021-02-24 22:32:06] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 22:32:06] DESC tbl_products_cat
+[2021-02-24 22:32:06] SELECT * FROM tbl_products_cat WHERE id=<br LIMIT 1
+[2021-02-24 22:35:01] DESC tbl_products_cat
+[2021-02-24 22:35:01] SELECT * FROM tbl_products_cat WHERE id=3 LIMIT 1
+[2021-02-24 22:35:02] DESC tbl_products_cat
+[2021-02-24 22:35:02] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 22:35:56] DESC tbl_products_cat
+[2021-02-24 22:35:56] SELECT * FROM tbl_products_cat WHERE id=3 LIMIT 1
+[2021-02-24 22:35:56] DESC tbl_products_cat
+[2021-02-24 22:35:56] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 22:36:36] DESC tbl_products_cat
+[2021-02-24 22:36:36] SELECT * FROM tbl_products_cat WHERE id=3 LIMIT 1
+[2021-02-24 22:36:37] DESC tbl_products_cat
+[2021-02-24 22:36:37] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 22:38:10] DESC tbl_products_cat
+[2021-02-24 22:38:10] SELECT * FROM tbl_products_cat WHERE id=3 LIMIT 1
+[2021-02-24 22:38:11] DESC tbl_products_cat
+[2021-02-24 22:38:11] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 22:38:22] DESC tbl_products_cat
+[2021-02-24 22:38:22] SELECT * FROM tbl_products_cat WHERE id=3 LIMIT 1
+[2021-02-24 22:38:22] DESC tbl_products_cat
+[2021-02-24 22:38:22] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 22:40:02] DESC tbl_products_cat
+[2021-02-24 22:40:02] SELECT * FROM tbl_products_cat WHERE id=3 LIMIT 1
+[2021-02-24 22:40:02] DESC tbl_products_cat
+[2021-02-24 22:40:02] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 22:43:04] DESC tbl_products_cat
+[2021-02-24 22:43:04] SELECT * FROM tbl_products_cat WHERE id=3 LIMIT 1
+[2021-02-24 22:43:05] DESC tbl_products_cat
+[2021-02-24 22:43:05] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 22:43:23] DESC tbl_products
+[2021-02-24 22:43:23] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-24 22:43:26] DESC tbl_products_cat
+[2021-02-24 22:43:26] DESC tbl_products
+[2021-02-24 22:43:26] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-24 22:43:26] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-24 22:43:26] DESC tbl_products_cat
+[2021-02-24 22:43:26] DESC tbl_products
+[2021-02-24 22:43:26] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-24 22:43:32] DESC tbl_products
+[2021-02-24 22:43:32] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-24 22:45:12] DESC tbl_products
+[2021-02-24 22:45:12] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-24 22:45:14] DESC tbl_products_cat
+[2021-02-24 22:45:14] DESC tbl_products
+[2021-02-24 22:45:14] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-24 22:45:14] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-24 22:45:14] DESC tbl_products_cat
+[2021-02-24 22:45:14] DESC tbl_products
+[2021-02-24 22:45:14] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-24 22:45:19] DESC tbl_products_cat
+[2021-02-24 22:45:19] DESC tbl_products
+[2021-02-24 22:45:19] UPDATE tbl_products SET product_name='LENOVO Thinkpad T470s',product_des='Sức mạnh của fame',product_content='Máy nói chung là cũng ổn, xài tốt mà đcm có tiền đếu đâu mà mua',product_unit='16990000',status='1',updated_at='2021-02-24 22:45:19',cat_id='1' WHERE id=23
+[2021-02-24 22:45:19] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-24 22:45:19] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-24 22:45:19] DESC tbl_products_cat
+[2021-02-24 22:45:19] DESC tbl_products
+[2021-02-24 22:45:19] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-24 22:45:22] DESC tbl_products_cat
+[2021-02-24 22:45:22] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-24 22:45:25] DESC tbl_products_cat
+[2021-02-24 22:45:25] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 22:45:25] DESC tbl_products_cat
+[2021-02-24 22:45:25] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 22:46:56] DESC tbl_products_cat
+[2021-02-24 22:46:56] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 22:46:57] DESC tbl_products_cat
+[2021-02-24 22:46:57] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 22:47:45] DESC tbl_products_cat
+[2021-02-24 22:47:45] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 22:47:46] DESC tbl_products_cat
+[2021-02-24 22:47:46] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 22:50:08] DESC tbl_products_cat
+[2021-02-24 22:50:08] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 22:50:09] DESC tbl_products_cat
+[2021-02-24 22:50:09] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 22:50:21] DESC tbl_products
+[2021-02-24 22:50:21] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-24 22:50:23] DESC tbl_products_cat
+[2021-02-24 22:50:23] DESC tbl_products
+[2021-02-24 22:50:23] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-24 22:50:23] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-24 22:50:23] DESC tbl_products_cat
+[2021-02-24 22:50:23] DESC tbl_products
+[2021-02-24 22:50:23] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-24 22:50:26] DESC tbl_products_cat
+[2021-02-24 22:50:26] DESC tbl_products
+[2021-02-24 22:50:26] UPDATE tbl_products SET product_name='LENOVO Thinkpad T470s',product_des='Sức mạnh của fame',product_content='Máy nói chung là cũng ổn, xài tốt mà đcm có tiền đếu đâu mà mua',product_unit='16990000',status='1',updated_at='2021-02-24 22:50:26',cat_id='1' WHERE id=23
+[2021-02-24 22:50:26] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-24 22:50:26] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-24 22:50:26] DESC tbl_products_cat
+[2021-02-24 22:50:26] DESC tbl_products
+[2021-02-24 22:50:26] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-24 22:50:29] DESC tbl_products_cat
+[2021-02-24 22:50:29] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-24 22:50:31] DESC tbl_products_cat
+[2021-02-24 22:50:31] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 22:50:31] DESC tbl_products_cat
+[2021-02-24 22:50:31] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 22:52:00] DESC tbl_products_cat
+[2021-02-24 22:52:00] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 22:52:00] DESC tbl_products_cat
+[2021-02-24 22:52:00] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 22:52:14] DESC tbl_products_cat
+[2021-02-24 22:52:14] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 22:52:14] DESC tbl_products_cat
+[2021-02-24 22:52:14] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 22:52:35] DESC tbl_products_cat
+[2021-02-24 22:52:35] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 22:52:35] DESC tbl_products_cat
+[2021-02-24 22:52:35] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 22:53:00] DESC tbl_products_cat
+[2021-02-24 22:53:00] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 22:53:01] DESC tbl_products_cat
+[2021-02-24 22:53:01] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 22:53:02] DESC tbl_products_cat
+[2021-02-24 22:53:02] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 22:53:03] DESC tbl_products_cat
+[2021-02-24 22:53:03] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 22:53:41] DESC tbl_products_cat
+[2021-02-24 22:53:41] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 22:53:41] DESC tbl_products_cat
+[2021-02-24 22:53:41] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 22:53:55] DESC tbl_products_cat
+[2021-02-24 22:53:55] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 22:54:08] DESC tbl_products_cat
+[2021-02-24 22:54:08] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 22:54:08] DESC tbl_products_cat
+[2021-02-24 22:54:08] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 22:54:10] DESC tbl_products_cat
+[2021-02-24 22:54:10] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 22:54:13] DESC tbl_products_cat
+[2021-02-24 22:54:13] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 22:58:46] DESC tbl_products_cat
+[2021-02-24 22:58:46] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 22:58:46] DESC tbl_products_cat
+[2021-02-24 22:58:46] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 22:59:04] DESC tbl_products_cat
+[2021-02-24 22:59:04] UPDATE tbl_products_cat SET cat_name='Toshiba',cat_des='Nói chung là nhìn cũng ổn',cat_content='Tạm tạm',cat_status='1',updated_at='2021-02-24 22:59:04' WHERE id=8
+[2021-02-24 22:59:16] DESC tbl_products_cat
+[2021-02-24 22:59:16] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 22:59:16] DESC tbl_products_cat
+[2021-02-24 22:59:16] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 22:59:25] DESC tbl_products_cat
+[2021-02-24 22:59:25] UPDATE tbl_products_cat SET cat_name='Toshiba',cat_des='Nói chung là nhìn cũng ổn',cat_content='tạm tạm',cat_status='1' WHERE id=8
+[2021-02-24 22:59:25] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-24 22:59:25] DESC tbl_products_cat
+[2021-02-24 22:59:25] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 22:59:30] DESC tbl_products_cat
+[2021-02-24 22:59:30] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-24 22:59:34] DESC tbl_products_cat
+[2021-02-24 22:59:34] SELECT * FROM tbl_products_cat WHERE id=7 LIMIT 1
+[2021-02-24 22:59:34] DESC tbl_products_cat
+[2021-02-24 22:59:34] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 22:59:42] DESC tbl_products_cat
+[2021-02-24 22:59:42] UPDATE tbl_products_cat SET cat_name='Samsung',cat_des='Laptop SAMSUNG',cat_content='Pin tụt lẹ vcl',cat_status='1' WHERE id=7
+[2021-02-24 22:59:42] SELECT * FROM tbl_products_cat WHERE id=7 LIMIT 1
+[2021-02-24 22:59:42] DESC tbl_products_cat
+[2021-02-24 22:59:42] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-24 22:59:46] DESC tbl_products_cat
+[2021-02-24 22:59:46] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-24 23:01:20] DESC tbl_products_cat
+[2021-02-24 23:01:20] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-24 23:01:32] DESC tbl_products_cat
+[2021-02-24 23:01:32] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-24 23:01:34] DESC tbl_products_cat
+[2021-02-24 23:01:34] DELETE FROM tbl_products_cat WHERE id=9
+[2021-02-24 23:01:34] DESC tbl_products_cat
+[2021-02-24 23:01:34] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 08:54:23] DESC tbl_products_cat
+[2021-02-25 08:54:23] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 08:54:24] DESC tbl_products
+[2021-02-25 08:54:24] SELECT * FROM tbl_products WHERE cat_id=8
+[2021-02-25 08:54:24] SELECT * FROM tbl_products WHERE cat_id=7
+[2021-02-25 08:54:24] SELECT * FROM tbl_products WHERE cat_id=6
+[2021-02-25 08:54:24] SELECT * FROM tbl_products WHERE cat_id=5
+[2021-02-25 08:54:24] SELECT * FROM tbl_products WHERE cat_id=4
+[2021-02-25 08:54:24] SELECT * FROM tbl_products WHERE cat_id=3
+[2021-02-25 08:54:24] SELECT * FROM tbl_products WHERE cat_id=2
+[2021-02-25 08:54:24] SELECT * FROM tbl_products WHERE cat_id=1
+[2021-02-25 08:54:26] DESC tbl_products_cat
+[2021-02-25 08:54:26] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 08:54:26] DESC tbl_products
+[2021-02-25 08:54:26] SELECT * FROM tbl_products WHERE cat_id=8
+[2021-02-25 08:54:26] SELECT * FROM tbl_products WHERE cat_id=7
+[2021-02-25 08:54:26] SELECT * FROM tbl_products WHERE cat_id=6
+[2021-02-25 08:54:26] SELECT * FROM tbl_products WHERE cat_id=5
+[2021-02-25 08:54:26] SELECT * FROM tbl_products WHERE cat_id=4
+[2021-02-25 08:54:26] SELECT * FROM tbl_products WHERE cat_id=3
+[2021-02-25 08:54:26] SELECT * FROM tbl_products WHERE cat_id=2
+[2021-02-25 08:54:26] SELECT * FROM tbl_products WHERE cat_id=1
+[2021-02-25 08:54:29] DESC tbl_products_cat
+[2021-02-25 08:54:29] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 08:54:29] DESC tbl_products
+[2021-02-25 08:54:29] SELECT * FROM tbl_products WHERE cat_id=8
+[2021-02-25 08:54:29] SELECT * FROM tbl_products WHERE cat_id=7
+[2021-02-25 08:54:29] SELECT * FROM tbl_products WHERE cat_id=6
+[2021-02-25 08:54:29] SELECT * FROM tbl_products WHERE cat_id=5
+[2021-02-25 08:54:29] SELECT * FROM tbl_products WHERE cat_id=4
+[2021-02-25 08:54:29] SELECT * FROM tbl_products WHERE cat_id=3
+[2021-02-25 08:54:29] SELECT * FROM tbl_products WHERE cat_id=2
+[2021-02-25 08:54:29] SELECT * FROM tbl_products WHERE cat_id=1
+[2021-02-25 08:54:30] DESC tbl_products_cat
+[2021-02-25 08:54:30] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 08:54:30] DESC tbl_products
+[2021-02-25 08:54:30] SELECT * FROM tbl_products WHERE cat_id=8
+[2021-02-25 08:54:30] SELECT * FROM tbl_products WHERE cat_id=7
+[2021-02-25 08:54:30] SELECT * FROM tbl_products WHERE cat_id=6
+[2021-02-25 08:54:30] SELECT * FROM tbl_products WHERE cat_id=5
+[2021-02-25 08:54:30] SELECT * FROM tbl_products WHERE cat_id=4
+[2021-02-25 08:54:30] SELECT * FROM tbl_products WHERE cat_id=3
+[2021-02-25 08:54:30] SELECT * FROM tbl_products WHERE cat_id=2
+[2021-02-25 08:54:30] SELECT * FROM tbl_products WHERE cat_id=1
+[2021-02-25 08:54:38] DESC tbl_products
+[2021-02-25 08:54:38] SELECT * FROM tbl_products WHERE id=6 LIMIT 1
+[2021-02-25 08:54:38] DESC tbl_products_cat
+[2021-02-25 08:54:38] SELECT * FROM tbl_products_cat WHERE id=4 LIMIT 1
+[2021-02-25 08:54:38] SELECT * FROM tbl_products WHERE cat_id=4
+[2021-02-25 08:54:46] DESC tbl_products
+[2021-02-25 08:54:46] SELECT * FROM tbl_products WHERE id=6 LIMIT 1
+[2021-02-25 08:55:01] DESC tbl_products_cat
+[2021-02-25 08:55:01] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 08:55:01] DESC tbl_products
+[2021-02-25 08:55:01] SELECT * FROM tbl_products WHERE cat_id=8
+[2021-02-25 08:55:01] SELECT * FROM tbl_products WHERE cat_id=7
+[2021-02-25 08:55:01] SELECT * FROM tbl_products WHERE cat_id=6
+[2021-02-25 08:55:01] SELECT * FROM tbl_products WHERE cat_id=5
+[2021-02-25 08:55:01] SELECT * FROM tbl_products WHERE cat_id=4
+[2021-02-25 08:55:01] SELECT * FROM tbl_products WHERE cat_id=3
+[2021-02-25 08:55:01] SELECT * FROM tbl_products WHERE cat_id=2
+[2021-02-25 08:55:01] SELECT * FROM tbl_products WHERE cat_id=1
+[2021-02-25 08:55:02] DESC tbl_products_cat
+[2021-02-25 08:55:02] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 08:55:02] DESC tbl_products
+[2021-02-25 08:55:02] SELECT * FROM tbl_products WHERE cat_id=8
+[2021-02-25 08:55:02] SELECT * FROM tbl_products WHERE cat_id=7
+[2021-02-25 08:55:02] SELECT * FROM tbl_products WHERE cat_id=6
+[2021-02-25 08:55:02] SELECT * FROM tbl_products WHERE cat_id=5
+[2021-02-25 08:55:02] SELECT * FROM tbl_products WHERE cat_id=4
+[2021-02-25 08:55:02] SELECT * FROM tbl_products WHERE cat_id=3
+[2021-02-25 08:55:02] SELECT * FROM tbl_products WHERE cat_id=2
+[2021-02-25 08:55:02] SELECT * FROM tbl_products WHERE cat_id=1
+[2021-02-25 08:55:07] DESC tbl_products
+[2021-02-25 08:55:07] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-25 08:55:08] DESC tbl_products
+[2021-02-25 08:55:08] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-25 08:55:34] DESC tbl_products_cat
+[2021-02-25 08:55:34] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 08:55:49] DESC tbl_products_cat
+[2021-02-25 08:55:49] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-25 08:55:49] DESC tbl_products_cat
+[2021-02-25 08:55:49] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-25 08:55:54] DESC tbl_products_cat
+[2021-02-25 08:55:54] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-25 08:55:54] DESC tbl_products_cat
+[2021-02-25 08:55:54] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-25 08:56:00] DESC tbl_products_cat
+[2021-02-25 08:56:00] UPDATE tbl_products_cat SET cat_name='Toshiba',cat_des='Nói chung là nhìn cũng ổn',cat_content='tạm tạm',cat_status='1' WHERE id=8
+[2021-02-25 08:56:00] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-25 08:56:00] DESC tbl_products_cat
+[2021-02-25 08:56:00] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-25 08:56:04] DESC tbl_products
+[2021-02-25 08:56:04] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-25 08:56:07] DESC tbl_products_cat
+[2021-02-25 08:56:07] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 08:56:12] DESC tbl_products_cat
+[2021-02-25 08:56:12] SELECT * FROM tbl_products_cat WHERE id=2 LIMIT 1
+[2021-02-25 08:56:12] DESC tbl_products_cat
+[2021-02-25 08:56:12] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-25 08:56:37] DESC tbl_products_cat
+[2021-02-25 08:56:37] UPDATE tbl_products_cat SET cat_name='DELL',cat_des='Hãng laptop Dell',cat_content='If I have money, Precision is mine',cat_status='1' WHERE id=2
+[2021-02-25 08:56:37] SELECT * FROM tbl_products_cat WHERE id=2 LIMIT 1
+[2021-02-25 08:56:37] DESC tbl_products_cat
+[2021-02-25 08:56:37] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-25 08:56:47] DESC tbl_orders
+[2021-02-25 08:56:47] SELECT * FROM tbl_orders ORDER BY id DESC LIMIT 30
+[2021-02-25 08:56:51] DESC tbl_orders
+[2021-02-25 08:56:51] SELECT * FROM tbl_orders WHERE id=4 LIMIT 1
+[2021-02-25 08:56:51] DESC tbl_orders_detail
+[2021-02-25 08:56:51] SELECT * FROM tbl_orders_detail WHERE order_id=4
+[2021-02-25 08:56:51] DESC tbl_orders
+[2021-02-25 08:56:51] SELECT * FROM tbl_orders WHERE id=js LIMIT 1
+[2021-02-25 08:56:54] DESC tbl_orders
+[2021-02-25 08:56:54] SELECT * FROM tbl_orders ORDER BY id DESC LIMIT 30
+[2021-02-25 08:59:16] DESC tbl_orders
+[2021-02-25 08:59:16] SELECT * FROM tbl_orders ORDER BY id DESC LIMIT 30
+[2021-02-25 09:03:55] DESC tbl_orders
+[2021-02-25 09:03:56] SELECT * FROM tbl_orders ORDER BY id DESC LIMIT 30
+[2021-02-25 09:04:01] DESC tbl_orders
+[2021-02-25 09:04:01] SELECT * FROM tbl_orders WHERE id=4 LIMIT 1
+[2021-02-25 09:04:01] DESC tbl_orders_detail
+[2021-02-25 09:04:01] SELECT * FROM tbl_orders_detail WHERE order_id=4
+[2021-02-25 09:04:01] DESC tbl_orders
+[2021-02-25 09:04:01] SELECT * FROM tbl_orders WHERE id=js LIMIT 1
+[2021-02-25 09:04:03] DESC tbl_orders
+[2021-02-25 09:04:03] SELECT * FROM tbl_orders ORDER BY id DESC LIMIT 30
+[2021-02-25 09:04:06] DESC tbl_orders
+[2021-02-25 09:04:06] DELETE FROM tbl_orders WHERE id=4
+[2021-02-25 09:04:06] DESC tbl_orders
+[2021-02-25 09:04:06] SELECT * FROM tbl_orders ORDER BY id DESC LIMIT 30
+[2021-02-25 09:04:22] DESC tbl_orders
+[2021-02-25 09:04:22] DELETE FROM tbl_orders WHERE id=3
+[2021-02-25 09:04:22] DESC tbl_orders
+[2021-02-25 09:04:22] SELECT * FROM tbl_orders ORDER BY id DESC LIMIT 30
+[2021-02-25 09:39:12] DESC tbl_orders
+[2021-02-25 09:39:12] SELECT * FROM tbl_orders ORDER BY id DESC LIMIT 30
+[2021-02-25 09:39:41] DESC tbl_products
+[2021-02-25 09:39:41] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-25 09:39:42] DESC tbl_products
+[2021-02-25 09:39:42] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-25 14:23:48] DESC tbl_products_cat
+[2021-02-25 14:23:48] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 14:23:50] DESC tbl_products
+[2021-02-25 14:23:50] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-25 14:28:49] DESC tbl_products
+[2021-02-25 14:28:49] DESC tbl_products_cat
+[2021-02-25 14:28:49] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 15:18:41] DESC tbl_products_cat
+[2021-02-25 15:18:41] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 15:18:43] DESC tbl_products_cat
+[2021-02-25 15:18:43] SELECT * FROM tbl_products_cat WHERE id= LIMIT 1
+[2021-02-25 15:19:05] DESC tbl_products_cat
+[2021-02-25 15:19:16] DESC tbl_products
+[2021-02-25 15:19:16] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-25 15:19:19] DESC tbl_products
+[2021-02-25 15:19:19] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-25 15:19:19] DESC tbl_products
+[2021-02-25 15:19:19] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-25 15:19:23] DESC tbl_products
+[2021-02-25 15:19:23] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-25 15:19:25] DESC tbl_products_cat
+[2021-02-25 15:19:25] DESC tbl_products
+[2021-02-25 15:19:25] SELECT * FROM tbl_products WHERE id=23 LIMIT 1
+[2021-02-25 15:19:25] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 15:19:25] DESC tbl_products_cat
+[2021-02-25 15:19:25] DESC tbl_products
+[2021-02-25 15:19:25] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-25 15:19:29] DESC tbl_products
+[2021-02-25 15:19:29] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-25 15:19:33] DESC tbl_products_cat
+[2021-02-25 15:19:33] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 15:19:35] DESC tbl_products_cat
+[2021-02-25 15:19:35] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-25 15:19:35] DESC tbl_products_cat
+[2021-02-25 15:19:35] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-25 15:19:38] DESC tbl_products_cat
+[2021-02-25 15:19:38] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 15:19:40] DESC tbl_products_cat
+[2021-02-25 15:19:40] SELECT * FROM tbl_products_cat WHERE id=8 LIMIT 1
+[2021-02-25 15:19:40] DESC tbl_products_cat
+[2021-02-25 15:19:40] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-25 15:19:43] DESC tbl_products_cat
+[2021-02-25 15:19:43] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 15:19:48] DESC tbl_products
+[2021-02-25 15:19:48] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-25 15:20:13] DESC tbl_products
+[2021-02-25 15:20:13] DESC tbl_products_cat
+[2021-02-25 15:20:13] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 15:23:06] DESC tbl_products
+[2021-02-25 15:23:06] DESC tbl_products_cat
+[2021-02-25 15:23:06] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 15:23:19] DESC tbl_products
+[2021-02-25 15:23:19] DESC tbl_products_cat
+[2021-02-25 15:23:19] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 15:23:19] INSERT INTO tbl_products(product_name,product_des,product_content,product_unit,status,created_at,updated_at,cat_id) VALUES('q','q','q','3','1','2021-02-25 15:23:19','2021-02-25 15:23:19','8')
+[2021-02-25 15:23:19] DESC tbl_products
+[2021-02-25 15:23:19] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-25 15:23:23] DESC tbl_products
+[2021-02-25 15:23:23] DELETE FROM tbl_products WHERE id=24
+[2021-02-25 15:23:24] DESC tbl_products
+[2021-02-25 15:23:24] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-25 15:23:30] DESC tbl_products_cat
+[2021-02-25 15:23:30] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 15:23:32] DESC tbl_products_cat
+[2021-02-25 15:24:18] DESC tbl_products_cat
+[2021-02-25 15:24:47] DESC tbl_products_cat
+[2021-02-25 15:24:51] DESC tbl_products
+[2021-02-25 15:24:51] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-25 15:24:54] DESC tbl_products
+[2021-02-25 15:24:54] DESC tbl_products_cat
+[2021-02-25 15:24:54] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 15:25:00] DESC tbl_products
+[2021-02-25 15:25:00] DESC tbl_products_cat
+[2021-02-25 15:25:00] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 15:25:00] INSERT INTO tbl_products(product_name,product_des,product_content,product_unit,status,created_at,updated_at,cat_id) VALUES('a','a','a','1','1','2021-02-25 15:25:00','2021-02-25 15:25:00','8')
+[2021-02-25 15:25:00] DESC tbl_products
+[2021-02-25 15:25:00] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-25 15:25:19] DESC tbl_products
+[2021-02-25 15:25:19] DELETE FROM tbl_products WHERE id=25
+[2021-02-25 15:25:19] DESC tbl_products
+[2021-02-25 15:25:19] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-25 15:25:34] DESC tbl_products_cat
+[2021-02-25 15:25:34] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 15:25:36] DESC tbl_products_cat
+[2021-02-25 15:25:43] DESC tbl_products_cat
+[2021-02-25 15:30:55] DESC tbl_products_cat
+[2021-02-25 15:31:00] DESC tbl_products_cat
+[2021-02-25 15:31:02] DESC tbl_products_cat
+[2021-02-25 15:31:07] DESC tbl_products_cat
+[2021-02-25 15:31:07] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 15:31:18] DESC tbl_products_cat
+[2021-02-25 15:31:22] DESC tbl_products_cat
+[2021-02-25 15:31:22] INSERT INTO tbl_products_cat(cat_name,cat_des,cat_content,cat_status,created_at) VALUES('a','a','a','1','2021-02-25 15:31:22')
+[2021-02-25 15:31:22] DESC tbl_products_cat
+[2021-02-25 15:31:22] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 15:31:34] DESC tbl_products_cat
+[2021-02-25 15:31:34] SELECT * FROM tbl_products_cat WHERE id=9 LIMIT 1
+[2021-02-25 15:31:35] DESC tbl_products_cat
+[2021-02-25 15:31:35] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-25 15:31:39] DESC tbl_products_cat
+[2021-02-25 15:31:39] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 15:31:42] DESC tbl_products_cat
+[2021-02-25 15:31:42] SELECT * FROM tbl_products_cat WHERE id=9 LIMIT 1
+[2021-02-25 15:31:42] DESC tbl_products_cat
+[2021-02-25 15:31:42] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-25 15:31:45] DESC tbl_products_cat
+[2021-02-25 15:31:45] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 15:31:48] DESC tbl_products_cat
+[2021-02-25 15:31:48] DELETE FROM tbl_products_cat WHERE id=9
+[2021-02-25 15:31:48] DESC tbl_products_cat
+[2021-02-25 15:31:48] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 15:31:51] DESC tbl_products_cat
+[2021-02-25 15:32:02] DESC tbl_products_cat
+[2021-02-25 15:32:02] INSERT INTO tbl_products_cat(cat_name,cat_des,cat_content,cat_status,created_at) VALUES('test','test cc','cc','1','2021-02-25 15:32:02')
+[2021-02-25 15:32:02] DESC tbl_products_cat
+[2021-02-25 15:32:02] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 15:32:12] DESC tbl_products
+[2021-02-25 15:32:12] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-25 15:32:14] DESC tbl_products
+[2021-02-25 15:32:14] DESC tbl_products_cat
+[2021-02-25 15:32:14] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 15:32:23] DESC tbl_products
+[2021-02-25 15:32:23] DESC tbl_products_cat
+[2021-02-25 15:32:23] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 15:32:23] INSERT INTO tbl_products(product_name,product_des,product_content,product_unit,status,created_at,updated_at,cat_id) VALUES('a','a','a','1','1','2021-02-25 15:32:23','2021-02-25 15:32:23','10')
+[2021-02-25 15:32:23] DESC tbl_products
+[2021-02-25 15:32:23] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-25 15:32:37] DESC tbl_products_cat
+[2021-02-25 15:32:37] DESC tbl_products
+[2021-02-25 15:32:37] SELECT * FROM tbl_products WHERE id=26 LIMIT 1
+[2021-02-25 15:32:37] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 15:32:37] DESC tbl_products_cat
+[2021-02-25 15:32:37] DESC tbl_products
+[2021-02-25 15:32:37] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-25 15:32:52] DESC tbl_products_cat
+[2021-02-25 15:32:52] DESC tbl_products
+[2021-02-25 15:32:52] UPDATE tbl_products SET product_name='test',product_des='test',product_content='test',product_unit='0',status='1',updated_at='2021-02-25 15:32:52',cat_id='10' WHERE id=26
+[2021-02-25 15:32:52] SELECT * FROM tbl_products WHERE id=26 LIMIT 1
+[2021-02-25 15:32:52] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 15:32:53] DESC tbl_products_cat
+[2021-02-25 15:32:53] DESC tbl_products
+[2021-02-25 15:32:53] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-25 15:32:56] DESC tbl_products
+[2021-02-25 15:32:56] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-25 15:33:05] DESC tbl_products_cat
+[2021-02-25 15:33:05] DESC tbl_products
+[2021-02-25 15:33:05] SELECT * FROM tbl_products WHERE id=26 LIMIT 1
+[2021-02-25 15:33:05] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 15:33:05] DESC tbl_products_cat
+[2021-02-25 15:33:05] DESC tbl_products
+[2021-02-25 15:33:05] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-25 15:33:08] DESC tbl_products_cat
+[2021-02-25 15:33:08] DESC tbl_products
+[2021-02-25 15:33:08] UPDATE tbl_products SET product_name='test',product_des='test',product_content='test',product_unit='0',status='0',updated_at='2021-02-25 15:33:08',cat_id='10' WHERE id=26
+[2021-02-25 15:33:08] SELECT * FROM tbl_products WHERE id=26 LIMIT 1
+[2021-02-25 15:33:08] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 15:33:08] DESC tbl_products_cat
+[2021-02-25 15:33:08] DESC tbl_products
+[2021-02-25 15:33:08] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-25 15:33:11] DESC tbl_products_cat
+[2021-02-25 15:33:11] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 15:33:14] DESC tbl_products_cat
+[2021-02-25 15:33:14] SELECT * FROM tbl_products_cat WHERE id=10 LIMIT 1
+[2021-02-25 15:33:14] DESC tbl_products_cat
+[2021-02-25 15:33:14] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-25 15:33:17] DESC tbl_products_cat
+[2021-02-25 15:33:17] UPDATE tbl_products_cat SET cat_name='test',cat_des='test cc',cat_content='cc',cat_status='0' WHERE id=10
+[2021-02-25 15:33:17] SELECT * FROM tbl_products_cat WHERE id=10 LIMIT 1
+[2021-02-25 15:33:18] DESC tbl_products_cat
+[2021-02-25 15:33:18] SELECT * FROM tbl_products_cat WHERE id=js LIMIT 1
+[2021-02-25 15:33:21] DESC tbl_products_cat
+[2021-02-25 15:33:21] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 15:33:23] DESC tbl_products
+[2021-02-25 15:33:23] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-25 15:35:02] DESC tbl_products_cat
+[2021-02-25 15:35:02] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 15:35:19] DESC tbl_orders
+[2021-02-25 15:35:19] SELECT * FROM tbl_orders ORDER BY id DESC LIMIT 30
+[2021-02-25 15:36:43] DESC tbl_orders
+[2021-02-25 15:36:43] SELECT * FROM tbl_orders ORDER BY id DESC LIMIT 30
+[2021-02-25 15:36:51] DESC tbl_products
+[2021-02-25 15:36:51] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-25 15:37:24] DESC tbl_products
+[2021-02-25 15:37:24] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-25 15:37:26] DESC tbl_products_cat
+[2021-02-25 15:37:26] DESC tbl_products
+[2021-02-25 15:37:26] SELECT * FROM tbl_products WHERE id=26 LIMIT 1
+[2021-02-25 15:37:26] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 15:37:26] DESC tbl_products_cat
+[2021-02-25 15:37:26] DESC tbl_products
+[2021-02-25 15:37:26] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-25 15:37:28] DESC tbl_products
+[2021-02-25 15:37:28] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-25 15:37:30] DESC tbl_products_cat
+[2021-02-25 15:37:30] DESC tbl_products
+[2021-02-25 15:37:30] SELECT * FROM tbl_products WHERE id=22 LIMIT 1
+[2021-02-25 15:37:30] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 15:37:30] DESC tbl_products_cat
+[2021-02-25 15:37:30] DESC tbl_products
+[2021-02-25 15:37:30] SELECT * FROM tbl_products WHERE id=js LIMIT 1
+[2021-02-25 15:37:41] DESC tbl_products
+[2021-02-25 15:37:41] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-25 15:40:47] DESC tbl_products
+[2021-02-25 15:40:47] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-25 15:40:55] DESC tbl_products
+[2021-02-25 15:40:55] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-25 15:41:52] DESC tbl_products
+[2021-02-25 15:41:52] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
+[2021-02-25 15:42:34] DESC tbl_products_cat
+[2021-02-25 15:42:34] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 15:43:56] DESC tbl_products_cat
+[2021-02-25 15:43:56] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 15:47:40] DESC tbl_products_cat
+[2021-02-25 15:47:40] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 15:48:47] DESC tbl_products_cat
+[2021-02-25 15:48:47] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 16:02:17] DESC tbl_products_cat
+[2021-02-25 16:02:17] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 16:02:33] DESC tbl_products_cat
+[2021-02-25 16:02:33] SELECT * FROM tbl_products_cat ORDER BY id DESC LIMIT 30
+[2021-02-25 16:06:12] DESC tbl_products
+[2021-02-25 16:06:12] SELECT * FROM tbl_products ORDER BY id DESC LIMIT 30
